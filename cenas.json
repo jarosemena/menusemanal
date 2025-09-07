@@ -1,0 +1,446 @@
+[
+  {
+    "data": [
+      {
+        "id": 17,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Huevo",
+        "Complemento": null,
+        "Descripcion": "Huevo Omelets  jamon y queso ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Omelets  jamon y queso"
+      },
+      {
+        "id": 1,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Carne de Res",
+        "Complemento": "con Pan ",
+        "Descripcion": "Carne de Res Hamburguesa con Pan ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Hamburguesa"
+      },
+      {
+        "id": 2,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Carne de Res",
+        "Complemento": "con Galletas",
+        "Descripcion": "Carne de Res Molida /dip Mexicano con Galletas",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Molida /dip Mexicano"
+      },
+      {
+        "id": 3,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Carne de Res",
+        "Complemento": "con Nachos ",
+        "Descripcion": "Carne de Res Molida con Nachos ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Molida"
+      },
+      {
+        "id": 4,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Carne de Res",
+        "Complemento": "con Tortilla para tacos",
+        "Descripcion": "Carne de Res Molida con Tortilla para tacos",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Molida"
+      },
+      {
+        "id": 5,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con Pan ",
+        "Descripcion": "Chorizo Frito/ al Sarten con Pan ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Frito/ al Sarten"
+      },
+      {
+        "id": 6,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con Patacones",
+        "Descripcion": "Chorizo Frito con Patacones",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Frito"
+      },
+      {
+        "id": 7,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con Tortilla de Maiz",
+        "Descripcion": "Chorizo Frito con Tortilla de Maiz",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Frito"
+      },
+      {
+        "id": 8,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con hojaldra",
+        "Descripcion": "Chorizo Frito con hojaldra",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Frito"
+      },
+      {
+        "id": 9,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con empanada de Maiz ",
+        "Descripcion": "Chorizo Frito con empanada de Maiz ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Frito"
+      },
+      {
+        "id": 10,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con empanada de harina",
+        "Descripcion": "Chorizo Frito con empanada de harina",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Frito"
+      },
+      {
+        "id": 11,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con hojaldra",
+        "Descripcion": "Chorizo Guisado con hojaldra",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Guisado"
+      },
+      {
+        "id": 12,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con empanada de Maiz ",
+        "Descripcion": "Chorizo Guisado con empanada de Maiz ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Guisado"
+      },
+      {
+        "id": 13,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con empanada de harina",
+        "Descripcion": "Chorizo Guisado con empanada de harina",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Guisado"
+      },
+      {
+        "id": 14,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con Patacones",
+        "Descripcion": "Chorizo Guisado con Patacones",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Guisado"
+      },
+      {
+        "id": 15,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con Tortilla de Maiz",
+        "Descripcion": "Chorizo Guisado con Tortilla de Maiz",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Guisado"
+      },
+      {
+        "id": 16,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Chorizo",
+        "Complemento": "con Pan ",
+        "Descripcion": "Chorizo Guisado con Pan ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Guisado"
+      },
+      {
+        "id": 26,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Pollo",
+        "Complemento": "con Pan ",
+        "Descripcion": "Pollo  Desilachado  con Pan ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Desilachado "
+      },
+      {
+        "id": 27,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Pollo",
+        "Complemento": "con Pan ",
+        "Descripcion": "Pollo  Hamburguesa con Pan ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Hamburguesa"
+      },
+      {
+        "id": 28,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Pollo",
+        "Complemento": "con Papitas",
+        "Descripcion": "Pollo  Nuggets con Papitas",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Nuggets"
+      },
+      {
+        "id": 29,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Pollo",
+        "Complemento": null,
+        "Descripcion": "Pollo  Desilachado  ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Desilachado "
+      },
+      {
+        "id": 30,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Pollo",
+        "Complemento": "con Yukkitas",
+        "Descripcion": "Pollo  Nuggets con Yukkitas",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Nuggets"
+      },
+      {
+        "id": 31,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas",
+        "Complemento": "con Hojaldre",
+        "Descripcion": "Salchichas Frito con Hojaldre",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Frito"
+      },
+      {
+        "id": 32,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas",
+        "Complemento": "con Hojaldre",
+        "Descripcion": "Salchichas Guisado con Hojaldre",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Guisado"
+      },
+      {
+        "id": 33,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas",
+        "Complemento": "con Pan hotDogs",
+        "Descripcion": "Salchichas Sancochadas con Pan hotDogs",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Sancochadas"
+      },
+      {
+        "id": 34,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas",
+        "Complemento": "con Patacones",
+        "Descripcion": "Salchichas Guisado con Patacones",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Guisado"
+      },
+      {
+        "id": 35,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas",
+        "Complemento": "con Patacones",
+        "Descripcion": "Salchichas Frito con Patacones",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Frito"
+      },
+      {
+        "id": 36,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas",
+        "Complemento": "con Tortilla de Maiz",
+        "Descripcion": "Salchichas Frito con Tortilla de Maiz",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Frito"
+      },
+      {
+        "id": 37,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas",
+        "Complemento": "con Tortilla de Maiz",
+        "Descripcion": "Salchichas Guisado con Tortilla de Maiz",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Guisado"
+      },
+      {
+        "id": 38,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas",
+        "Complemento": "con Patacones",
+        "Descripcion": "Salchichas Coctel con Patacones",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Coctel"
+      },
+      {
+        "id": 39,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas",
+        "Complemento": "con Tortilla de Maiz",
+        "Descripcion": "Salchichas Coctel con Tortilla de Maiz",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Coctel"
+      },
+      {
+        "id": 40,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas",
+        "Complemento": "con Hojaldre",
+        "Descripcion": "Salchichas Coctel con Hojaldre",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Coctel"
+      },
+      {
+        "id": 41,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas",
+        "Complemento": "con Galletas",
+        "Descripcion": "Salchichas Coctel con Galletas",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Coctel"
+      },
+      {
+        "id": 18,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Jamón y Queso",
+        "Complemento": "con Empanada de Maiz",
+        "Descripcion": "Jamón y Queso  con Empanada de Maiz",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": null
+      },
+      {
+        "id": 19,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Jamón y Queso",
+        "Complemento": "con Tortillas en emparedado ",
+        "Descripcion": "Jamón y Queso  con Tortillas en emparedado ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": null
+      },
+      {
+        "id": 20,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Jamón y Queso",
+        "Complemento": "con Empanada de Arina",
+        "Descripcion": "Jamón y Queso  con Empanada de Arina",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": null
+      },
+      {
+        "id": 21,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Jamón y Queso",
+        "Complemento": "con Toritlla para Tacos",
+        "Descripcion": "Jamón y Queso  con Toritlla para Tacos",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": null
+      },
+      {
+        "id": 22,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Jamón y Queso",
+        "Complemento": "con Pan",
+        "Descripcion": "Jamón y Queso  con Pan",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": null
+      },
+      {
+        "id": 23,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Pepperoni y Queso",
+        "Complemento": "con Galletas",
+        "Descripcion": "Pepperoni y Queso Dip de Pizza con Galletas",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Dip de Pizza"
+      },
+      {
+        "id": 24,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Pepperoni y Queso",
+        "Complemento": "con Pan ",
+        "Descripcion": "Pepperoni y Queso  con Pan ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": null
+      },
+      {
+        "id": 25,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Pepperoni y Queso",
+        "Complemento": "con Tortillas en emparedado ",
+        "Descripcion": "Pepperoni y Queso  con Tortillas en emparedado ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": null
+      },
+      {
+        "id": 42,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Salchichas / Carne de Res",
+        "Complemento": "con Pan ",
+        "Descripcion": "Salchichas / Carne de Res Carne Molida con Pan ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Carne Molida"
+      },
+      {
+        "id": 43,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Tuna",
+        "Complemento": "con Galleta ",
+        "Descripcion": "Tuna Dip de Tuna con Galleta ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Dip de Tuna"
+      },
+      {
+        "id": 44,
+        "created_at": "2025-08-24T00:00:00+00:00",
+        "Proteina": "Tuna",
+        "Complemento": "con Pan ",
+        "Descripcion": "Tuna Dip de Tuna con Pan ",
+        "RecetaCode": null,
+        "SuperListCode": null,
+        "TipoCocionProteina": "Dip de Tuna"
+      }
+    ]
+  }
+]

@@ -1,0 +1,506 @@
+[
+    {
+        "data": [
+            {
+                "id": 1,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Bistec",
+                "Complemento": "con Hojaldre ",
+                "Descripcion": "Bistec Guisado con Hojaldre ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 2,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Bistec",
+                "Complemento": "con Hojaldre ",
+                "Descripcion": "Bistec Encebollado con Hojaldre ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Encebollado"
+            },
+            {
+                "id": 3,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Chorizo",
+                "Complemento": "con Hojaldre ",
+                "Descripcion": "Chorizo Guisado con Hojaldre ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 4,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Chorizo",
+                "Complemento": "con Hojaldre ",
+                "Descripcion": "Chorizo Frito con Hojaldre ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Frito"
+            },
+            {
+                "id": 5,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Hojaldre ",
+                "Descripcion": "Salchichas Guisado con Hojaldre ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 6,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Hojaldre ",
+                "Descripcion": "Salchichas Guisado estilo Diana con Hojaldre ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado estilo Diana"
+            },
+            {
+                "id": 7,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Hojaldre ",
+                "Descripcion": "Salchichas Frito con Hojaldre ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Frito"
+            },
+            {
+                "id": 8,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Jamón y Queso",
+                "Complemento": "con Hojaldre ",
+                "Descripcion": "Jamón y Queso  con Hojaldre ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 9,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Pepperoni y Queso",
+                "Complemento": "con Hojaldre ",
+                "Descripcion": "Pepperoni y Queso  con Hojaldre ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 12,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Omelette de jamón y queso",
+                "Complemento": "con Hojaldre ",
+                "Descripcion": "Omelette de jamón y queso  con Hojaldre ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 13,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Bistec",
+                "Complemento": "con Tortilla de maíz ",
+                "Descripcion": "Bistec Guisado con Tortilla de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 14,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Bistec",
+                "Complemento": "con Tortilla de maíz ",
+                "Descripcion": "Bistec Encebollado con Tortilla de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Encebollado"
+            },
+            {
+                "id": 15,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Chorizo",
+                "Complemento": "con Tortilla de maíz ",
+                "Descripcion": "Chorizo Guisado con Tortilla de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 16,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Chorizo",
+                "Complemento": "con Tortilla de maíz ",
+                "Descripcion": "Chorizo Frito con Tortilla de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Frito"
+            },
+            {
+                "id": 17,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Tortilla de maíz ",
+                "Descripcion": "Salchichas Guisado con Tortilla de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 18,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Tortilla de maíz ",
+                "Descripcion": "Salchichas Guisado estilo Diana con Tortilla de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado estilo Diana"
+            },
+            {
+                "id": 19,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Tortilla de maíz ",
+                "Descripcion": "Salchichas Frito con Tortilla de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Frito"
+            },
+            {
+                "id": 20,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Jamón y Queso",
+                "Complemento": "con Tortilla de maíz ",
+                "Descripcion": "Jamón y Queso  con Tortilla de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 21,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Pepperoni y Queso",
+                "Complemento": "con Tortilla de maíz ",
+                "Descripcion": "Pepperoni y Queso  con Tortilla de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 24,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Omelette de jamón y queso",
+                "Complemento": "con Tortilla de maíz ",
+                "Descripcion": "Omelette de jamón y queso  con Tortilla de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 25,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Bistec",
+                "Complemento": "con Empanadas de maíz ",
+                "Descripcion": "Bistec Guisado con Empanadas de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 26,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Bistec",
+                "Complemento": "con Empanadas de maíz ",
+                "Descripcion": "Bistec Encebollado con Empanadas de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Encebollado"
+            },
+            {
+                "id": 27,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Chorizo",
+                "Complemento": "con Empanadas de maíz ",
+                "Descripcion": "Chorizo Guisado con Empanadas de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 28,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Chorizo",
+                "Complemento": "con Empanadas de maíz ",
+                "Descripcion": "Chorizo Frito con Empanadas de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Frito"
+            },
+            {
+                "id": 29,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Empanadas de maíz ",
+                "Descripcion": "Salchichas Guisado con Empanadas de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 30,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Empanadas de maíz ",
+                "Descripcion": "Salchichas Guisado estilo Diana con Empanadas de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado estilo Diana"
+            },
+            {
+                "id": 31,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Empanadas de maíz ",
+                "Descripcion": "Salchichas Frito con Empanadas de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Frito"
+            },
+            {
+                "id": 32,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Jamón y Queso",
+                "Complemento": "con Empanadas de maíz ",
+                "Descripcion": "Jamón y Queso  con Empanadas de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 33,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Pepperoni y Queso",
+                "Complemento": "con Empanadas de maíz ",
+                "Descripcion": "Pepperoni y Queso  con Empanadas de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 36,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Omelette de jamón y queso",
+                "Complemento": "con Empanadas de maíz ",
+                "Descripcion": "Omelette de jamón y queso  con Empanadas de maíz ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 37,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Bistec",
+                "Complemento": "con Empanadas de harina ",
+                "Descripcion": "Bistec Guisado con Empanadas de harina ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 38,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Bistec",
+                "Complemento": "con Empanadas de harina ",
+                "Descripcion": "Bistec Encebollado con Empanadas de harina ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Encebollado"
+            },
+            {
+                "id": 39,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Chorizo",
+                "Complemento": "con Empanadas de harina ",
+                "Descripcion": "Chorizo Guisado con Empanadas de harina ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 40,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Chorizo",
+                "Complemento": "con Empanadas de harina ",
+                "Descripcion": "Chorizo Frito con Empanadas de harina ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Frito"
+            },
+            {
+                "id": 41,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Empanadas de harina ",
+                "Descripcion": "Salchichas Guisado con Empanadas de harina ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 42,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Empanadas de harina ",
+                "Descripcion": "Salchichas Guisado estilo Diana con Empanadas de harina ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado estilo Diana"
+            },
+            {
+                "id": 43,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Empanadas de harina ",
+                "Descripcion": "Salchichas Frito con Empanadas de harina ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Frito"
+            },
+            {
+                "id": 44,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Jamón y Queso",
+                "Complemento": "con Empanadas de harina ",
+                "Descripcion": "Jamón y Queso  con Empanadas de harina ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 45,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Pepperoni y Queso",
+                "Complemento": "con Empanadas de harina ",
+                "Descripcion": "Pepperoni y Queso  con Empanadas de harina ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 48,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Omelette de jamón y queso",
+                "Complemento": "con Empanadas de harina ",
+                "Descripcion": "Omelette de jamón y queso  con Empanadas de harina ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 49,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Bistec",
+                "Complemento": "con Pan ",
+                "Descripcion": "Bistec Guisado con Pan ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 50,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Bistec",
+                "Complemento": "con Pan ",
+                "Descripcion": "Bistec Encebollado con Pan ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Encebollado"
+            },
+            {
+                "id": 51,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Chorizo",
+                "Complemento": "con Pan ",
+                "Descripcion": "Chorizo Guisado con Pan ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 52,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Chorizo",
+                "Complemento": "con Pan ",
+                "Descripcion": "Chorizo Frito con Pan ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Frito"
+            },
+            {
+                "id": 53,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Pan ",
+                "Descripcion": "Salchichas Guisado con Pan ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado"
+            },
+            {
+                "id": 54,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Pan ",
+                "Descripcion": "Salchichas Guisado estilo Diana con Pan ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Guisado estilo Diana"
+            },
+            {
+                "id": 55,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Salchichas",
+                "Complemento": "con Pan ",
+                "Descripcion": "Salchichas Frito con Pan ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": "Frito"
+            },
+            {
+                "id": 56,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Jamón y Queso",
+                "Complemento": "con Pan ",
+                "Descripcion": "Jamón y Queso  con Pan ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 57,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Pepperoni y Queso",
+                "Complemento": "con Pan ",
+                "Descripcion": "Pepperoni y Queso  con Pan ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            },
+            {
+                "id": 60,
+                "created_at": "2025-08-24T00:00:00+00:00",
+                "Proteina": "Omelette de jamón y queso",
+                "Complemento": "con Pan ",
+                "Descripcion": "Omelette de jamón y queso  con Pan ",
+                "RecetaCode": null,
+                "SuperListCode": null,
+                "TipoCocionProteina": null
+            }
+        ]
+    }
+]

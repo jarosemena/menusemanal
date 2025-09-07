@@ -1,0 +1,69 @@
+id;created_at;Proteina;TipoCocionProteina;Complemento;Descripcion
+1;2025-08-24;Bistec;Guisado;con Hojaldre ;Bistec Guisado con Hojaldre 
+2;2025-08-24;Bistec;Encebollado;con Hojaldre ;Bistec Encebollado con Hojaldre 
+3;2025-08-24;Chorizo;Guisado;con Hojaldre ;Chorizo Guisado con Hojaldre 
+4;2025-08-24;Chorizo;Frito;con Hojaldre ;Chorizo Frito con Hojaldre 
+5;2025-08-24;Salchichas;Guisado;con Hojaldre ;Salchichas Guisado con Hojaldre 
+6;2025-08-24;Salchichas;Guisado estilo Diana;con Hojaldre ;Salchichas Guisado estilo Diana con Hojaldre 
+7;2025-08-24;Salchichas;Frito;con Hojaldre ;Salchichas Frito con Hojaldre 
+8;2025-08-24;Jamón y Queso;;con Hojaldre ;Jamón y Queso  con Hojaldre 
+9;2025-08-24;Pepperoni y Queso;;con Hojaldre ;Pepperoni y Queso  con Hojaldre 
+10;2025-08-24;Huevo ;Sancochado;con Hojaldre ;Huevo  Sancochado con Hojaldre 
+11;2025-08-24;Huevo ;Frito;con Hojaldre ;Huevo  Frito con Hojaldre 
+12;2025-08-24;Omelette de jamón y queso;;con Hojaldre ;Omelette de jamón y queso  con Hojaldre 
+13;2025-08-24;Bistec;Guisado;con Tortilla de maíz ;Bistec Guisado con Tortilla de maíz 
+14;2025-08-24;Bistec;Encebollado;con Tortilla de maíz ;Bistec Encebollado con Tortilla de maíz 
+15;2025-08-24;Chorizo;Guisado;con Tortilla de maíz ;Chorizo Guisado con Tortilla de maíz 
+16;2025-08-24;Chorizo;Frito;con Tortilla de maíz ;Chorizo Frito con Tortilla de maíz 
+17;2025-08-24;Salchichas;Guisado;con Tortilla de maíz ;Salchichas Guisado con Tortilla de maíz 
+18;2025-08-24;Salchichas;Guisado estilo Diana;con Tortilla de maíz ;Salchichas Guisado estilo Diana con Tortilla de maíz 
+19;2025-08-24;Salchichas;Frito;con Tortilla de maíz ;Salchichas Frito con Tortilla de maíz 
+20;2025-08-24;Jamón y Queso;;con Tortilla de maíz ;Jamón y Queso  con Tortilla de maíz 
+21;2025-08-24;Pepperoni y Queso;;con Tortilla de maíz ;Pepperoni y Queso  con Tortilla de maíz 
+22;2025-08-24;Huevo ;Sancochado;con Tortilla de maíz ;Huevo  Sancochado con Tortilla de maíz 
+23;2025-08-24;Huevo ;Frito;con Tortilla de maíz ;Huevo  Frito con Tortilla de maíz 
+24;2025-08-24;Omelette de jamón y queso;;con Tortilla de maíz ;Omelette de jamón y queso  con Tortilla de maíz 
+25;2025-08-24;Bistec;Guisado;con Empanadas de maíz ;Bistec Guisado con Empanadas de maíz 
+26;2025-08-24;Bistec;Encebollado;con Empanadas de maíz ;Bistec Encebollado con Empanadas de maíz 
+27;2025-08-24;Chorizo;Guisado;con Empanadas de maíz ;Chorizo Guisado con Empanadas de maíz 
+28;2025-08-24;Chorizo;Frito;con Empanadas de maíz ;Chorizo Frito con Empanadas de maíz 
+29;2025-08-24;Salchichas;Guisado;con Empanadas de maíz ;Salchichas Guisado con Empanadas de maíz 
+30;2025-08-24;Salchichas;Guisado estilo Diana;con Empanadas de maíz ;Salchichas Guisado estilo Diana con Empanadas de maíz 
+31;2025-08-24;Salchichas;Frito;con Empanadas de maíz ;Salchichas Frito con Empanadas de maíz 
+32;2025-08-24;Jamón y Queso;;con Empanadas de maíz ;Jamón y Queso  con Empanadas de maíz 
+33;2025-08-24;Pepperoni y Queso;;con Empanadas de maíz ;Pepperoni y Queso  con Empanadas de maíz 
+34;2025-08-24;Huevo ;Sancochado;con Empanadas de maíz ;Huevo  Sancochado con Empanadas de maíz 
+35;2025-08-24;Huevo ;Frito;con Empanadas de maíz ;Huevo  Frito con Empanadas de maíz 
+36;2025-08-24;Omelette de jamón y queso;;con Empanadas de maíz ;Omelette de jamón y queso  con Empanadas de maíz 
+37;2025-08-24;Bistec;Guisado;con Empanadas de harina ;Bistec Guisado con Empanadas de harina 
+38;2025-08-24;Bistec;Encebollado;con Empanadas de harina ;Bistec Encebollado con Empanadas de harina 
+39;2025-08-24;Chorizo;Guisado;con Empanadas de harina ;Chorizo Guisado con Empanadas de harina 
+40;2025-08-24;Chorizo;Frito;con Empanadas de harina ;Chorizo Frito con Empanadas de harina 
+41;2025-08-24;Salchichas;Guisado;con Empanadas de harina ;Salchichas Guisado con Empanadas de harina 
+42;2025-08-24;Salchichas;Guisado estilo Diana;con Empanadas de harina ;Salchichas Guisado estilo Diana con Empanadas de harina 
+43;2025-08-24;Salchichas;Frito;con Empanadas de harina ;Salchichas Frito con Empanadas de harina 
+44;2025-08-24;Jamón y Queso;;con Empanadas de harina ;Jamón y Queso  con Empanadas de harina 
+45;2025-08-24;Pepperoni y Queso;;con Empanadas de harina ;Pepperoni y Queso  con Empanadas de harina 
+46;2025-08-24;Huevo ;Sancochado;con Empanadas de harina ;Huevo  Sancochado con Empanadas de harina 
+47;2025-08-24;Huevo ;Frito;con Empanadas de harina ;Huevo  Frito con Empanadas de harina 
+48;2025-08-24;Omelette de jamón y queso;;con Empanadas de harina ;Omelette de jamón y queso  con Empanadas de harina 
+49;2025-08-24;Bistec;Guisado;con Pan ;Bistec Guisado con Pan 
+50;2025-08-24;Bistec;Encebollado;con Pan ;Bistec Encebollado con Pan 
+51;2025-08-24;Chorizo;Guisado;con Pan ;Chorizo Guisado con Pan 
+52;2025-08-24;Chorizo;Frito;con Pan ;Chorizo Frito con Pan 
+53;2025-08-24;Salchichas;Guisado;con Pan ;Salchichas Guisado con Pan 
+54;2025-08-24;Salchichas;Guisado estilo Diana;con Pan ;Salchichas Guisado estilo Diana con Pan 
+55;2025-08-24;Salchichas;Frito;con Pan ;Salchichas Frito con Pan 
+56;2025-08-24;Jamón y Queso;;con Pan ;Jamón y Queso  con Pan 
+57;2025-08-24;Pepperoni y Queso;;con Pan ;Pepperoni y Queso  con Pan 
+58;2025-08-24;Huevo ;Sancochado;con Pan ;Huevo  Sancochado con Pan 
+59;2025-08-24;Huevo ;Frito;con Pan ;Huevo  Frito con Pan 
+60;2025-08-24;Omelette de jamón y queso;;con Pan ;Omelette de jamón y queso  con Pan 
+61;2025-08-24;Chorizo;Frito;con Pancakes ;Chorizo Frito con Pancakes 
+62;2025-08-24;Salchichas;Frito;con Pancakes ;Salchichas Frito con Pancakes 
+63;2025-08-24;Jamón y Queso;;con Pancakes ;Jamón y Queso  con Pancakes 
+64;2025-08-24;Salchichas de pancakes;Frito;con Pancakes ;Salchichas de pancakes Frito con Pancakes 
+65;2025-08-24;Chorizo;Frito;con Tostadas Francesas ;Chorizo Frito con Tostadas Francesas 
+66;2025-08-24;Salchichas;Frito;con Tostadas Francesas ;Salchichas Frito con Tostadas Francesas 
+67;2025-08-24;Jamón y Queso;;con Tostadas Francesas ;Jamón y Queso  con Tostadas Francesas 
+68;2025-08-24;Salchichas de pancakes;Frito;con Tostadas Francesas ;Salchichas de pancakes Frito con Tostadas Francesas 

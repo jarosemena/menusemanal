@@ -1,0 +1,876 @@
+id;created_at;Proteina;TipoCocionProteina;Complemento;Descripcion
+1;2025-08-24;Pollo;a la Reina; con Arroz blanco y Ensalada de papa;Pollo a la Reina  con Arroz blanco y Ensalada de papa
+2;2025-08-24;Pollo;a la Reina; con Arroz blanco y Ensalada de repollo con zanahoria;Pollo a la Reina  con Arroz blanco y Ensalada de repollo con zanahoria
+3;2025-08-24;Pollo;a la Reina; con Arroz blanco y Tajadas;Pollo a la Reina  con Arroz blanco y Tajadas
+4;2025-08-24;Pollo;a la Reina; con Arroz blanco;Pollo a la Reina  con Arroz blanco
+5;2025-08-24;Pollo;a la Reina; con Arroz con maíz y Ensalada de papa;Pollo a la Reina  con Arroz con maíz y Ensalada de papa
+6;2025-08-24;Pollo;a la Reina; con Arroz con maíz y Ensalada de repollo con zanahoria;Pollo a la Reina  con Arroz con maíz y Ensalada de repollo con zanahoria
+7;2025-08-24;Pollo;a la Reina; con Arroz con maíz y Tajadas;Pollo a la Reina  con Arroz con maíz y Tajadas
+8;2025-08-24;Pollo;a la Reina; con Arroz con maíz;Pollo a la Reina  con Arroz con maíz
+9;2025-08-24;Pollo;a la Reina; con Arroz con guandú y Ensalada de papa;Pollo a la Reina  con Arroz con guandú y Ensalada de papa
+10;2025-08-24;Pollo;a la Reina; con Arroz con guandú y Ensalada de repollo con zanahoria;Pollo a la Reina  con Arroz con guandú y Ensalada de repollo con zanahoria
+11;2025-08-24;Pollo;a la Reina; con Arroz con guandú y Tajadas;Pollo a la Reina  con Arroz con guandú y Tajadas
+12;2025-08-24;Pollo;a la Reina; con Arroz con guandú;Pollo a la Reina  con Arroz con guandú
+13;2025-08-24;Pollo;a la Reina; con Arroz con lentejas y Ensalada de papa;Pollo a la Reina  con Arroz con lentejas y Ensalada de papa
+14;2025-08-24;Pollo;a la Reina; con Arroz con lentejas y Ensalada de repollo con zanahoria;Pollo a la Reina  con Arroz con lentejas y Ensalada de repollo con zanahoria
+15;2025-08-24;Pollo;a la Reina; con Arroz con lentejas y Tajadas;Pollo a la Reina  con Arroz con lentejas y Tajadas
+16;2025-08-24;Pollo;a la Reina; con Arroz con lentejas;Pollo a la Reina  con Arroz con lentejas
+17;2025-08-24;Pollo;a la Reina; con Arroz verde y Ensalada de papa;Pollo a la Reina  con Arroz verde y Ensalada de papa
+18;2025-08-24;Pollo;a la Reina; con Arroz verde y Ensalada de repollo con zanahoria;Pollo a la Reina  con Arroz verde y Ensalada de repollo con zanahoria
+19;2025-08-24;Pollo;a la Reina; con Arroz verde y Tajadas;Pollo a la Reina  con Arroz verde y Tajadas
+20;2025-08-24;Pollo;a la Reina; con Arroz verde;Pollo a la Reina  con Arroz verde
+21;2025-08-24;Pollo;a la Reina; con Puré de papas y Ensalada de papa;Pollo a la Reina  con Puré de papas y Ensalada de papa
+22;2025-08-24;Pollo;a la Reina; con Puré de papas y Tajadas;Pollo a la Reina  con Puré de papas y Tajadas
+23;2025-08-24;Pollo;a la Reina; con Puré de papas;Pollo a la Reina  con Puré de papas
+24;2025-08-24;Pollo;a la Reina; con Papas fritas y Ensalada de papa;Pollo a la Reina  con Papas fritas y Ensalada de papa
+25;2025-08-24;Pollo;a la Reina; con Papas fritas y Ensalada de repollo con zanahoria;Pollo a la Reina  con Papas fritas y Ensalada de repollo con zanahoria
+26;2025-08-24;Pollo;a la Reina; con Papas fritas y Tajadas;Pollo a la Reina  con Papas fritas y Tajadas
+27;2025-08-24;Pollo;a la Reina; con Papas fritas;Pollo a la Reina  con Papas fritas
+28;2025-08-24;Pollo;a la Reina; con Papas asadas y Ensalada de papa;Pollo a la Reina  con Papas asadas y Ensalada de papa
+29;2025-08-24;Pollo;a la Reina; con Papas asadas y Ensalada de repollo con zanahoria;Pollo a la Reina  con Papas asadas y Ensalada de repollo con zanahoria
+30;2025-08-24;Pollo;a la Reina; con Papas asadas y Tajadas;Pollo a la Reina  con Papas asadas y Tajadas
+31;2025-08-24;Pollo;a la Reina; con Papas asadas;Pollo a la Reina  con Papas asadas
+32;2025-08-24;Pollo;a la Reina; con Patacones y Ensalada de papa;Pollo a la Reina  con Patacones y Ensalada de papa
+33;2025-08-24;Pollo;a la Reina; con Patacones y Ensalada de repollo con zanahoria;Pollo a la Reina  con Patacones y Ensalada de repollo con zanahoria
+34;2025-08-24;Pollo;a la Reina; con Patacones y Tajadas;Pollo a la Reina  con Patacones y Tajadas
+35;2025-08-24;Pollo;a la Reina; con Patacones;Pollo a la Reina  con Patacones
+36;2025-08-24;Pollo;a la BBQ; con Arroz blanco y Ensalada de papa;Pollo a la BBQ  con Arroz blanco y Ensalada de papa
+37;2025-08-24;Pollo;a la BBQ; con Arroz blanco y Ensalada de repollo con zanahoria;Pollo a la BBQ  con Arroz blanco y Ensalada de repollo con zanahoria
+38;2025-08-24;Pollo;a la BBQ; con Arroz blanco y Tajadas;Pollo a la BBQ  con Arroz blanco y Tajadas
+39;2025-08-24;Pollo;a la BBQ; con Arroz blanco;Pollo a la BBQ  con Arroz blanco
+40;2025-08-24;Pollo;a la BBQ; con Arroz con maíz y Ensalada de papa;Pollo a la BBQ  con Arroz con maíz y Ensalada de papa
+41;2025-08-24;Pollo;a la BBQ; con Arroz con maíz y Ensalada de repollo con zanahoria;Pollo a la BBQ  con Arroz con maíz y Ensalada de repollo con zanahoria
+42;2025-08-24;Pollo;a la BBQ; con Arroz con maíz y Tajadas;Pollo a la BBQ  con Arroz con maíz y Tajadas
+43;2025-08-24;Pollo;a la BBQ; con Arroz con maíz;Pollo a la BBQ  con Arroz con maíz
+44;2025-08-24;Pollo;a la BBQ; con Arroz con guandú y Ensalada de papa;Pollo a la BBQ  con Arroz con guandú y Ensalada de papa
+45;2025-08-24;Pollo;a la BBQ; con Arroz con guandú y Ensalada de repollo con zanahoria;Pollo a la BBQ  con Arroz con guandú y Ensalada de repollo con zanahoria
+46;2025-08-24;Pollo;a la BBQ; con Arroz con guandú y Tajadas;Pollo a la BBQ  con Arroz con guandú y Tajadas
+47;2025-08-24;Pollo;a la BBQ; con Arroz con guandú;Pollo a la BBQ  con Arroz con guandú
+48;2025-08-24;Pollo;a la BBQ; con Arroz con lentejas y Ensalada de papa;Pollo a la BBQ  con Arroz con lentejas y Ensalada de papa
+49;2025-08-24;Pollo;a la BBQ; con Arroz con lentejas y Ensalada de repollo con zanahoria;Pollo a la BBQ  con Arroz con lentejas y Ensalada de repollo con zanahoria
+50;2025-08-24;Pollo;a la BBQ; con Arroz con lentejas y Tajadas;Pollo a la BBQ  con Arroz con lentejas y Tajadas
+51;2025-08-24;Pollo;a la BBQ; con Arroz con lentejas;Pollo a la BBQ  con Arroz con lentejas
+52;2025-08-24;Pollo;a la BBQ; con Arroz verde y Ensalada de papa;Pollo a la BBQ  con Arroz verde y Ensalada de papa
+53;2025-08-24;Pollo;a la BBQ; con Arroz verde y Ensalada de repollo con zanahoria;Pollo a la BBQ  con Arroz verde y Ensalada de repollo con zanahoria
+54;2025-08-24;Pollo;a la BBQ; con Arroz verde y Tajadas;Pollo a la BBQ  con Arroz verde y Tajadas
+55;2025-08-24;Pollo;a la BBQ; con Arroz verde;Pollo a la BBQ  con Arroz verde
+56;2025-08-24;Pollo;a la BBQ; con Puré de papas y Ensalada de papa;Pollo a la BBQ  con Puré de papas y Ensalada de papa
+57;2025-08-24;Pollo;a la BBQ; con Puré de papas y Tajadas;Pollo a la BBQ  con Puré de papas y Tajadas
+58;2025-08-24;Pollo;a la BBQ; con Puré de papas;Pollo a la BBQ  con Puré de papas
+59;2025-08-24;Pollo;a la BBQ; con Papas fritas y Ensalada de papa;Pollo a la BBQ  con Papas fritas y Ensalada de papa
+60;2025-08-24;Pollo;a la BBQ; con Papas fritas y Ensalada de repollo con zanahoria;Pollo a la BBQ  con Papas fritas y Ensalada de repollo con zanahoria
+61;2025-08-24;Pollo;a la BBQ; con Papas fritas y Tajadas;Pollo a la BBQ  con Papas fritas y Tajadas
+62;2025-08-24;Pollo;a la BBQ; con Papas fritas;Pollo a la BBQ  con Papas fritas
+63;2025-08-24;Pollo;a la BBQ; con Papas asadas y Ensalada de papa;Pollo a la BBQ  con Papas asadas y Ensalada de papa
+64;2025-08-24;Pollo;a la BBQ; con Papas asadas y Ensalada de repollo con zanahoria;Pollo a la BBQ  con Papas asadas y Ensalada de repollo con zanahoria
+65;2025-08-24;Pollo;a la BBQ; con Papas asadas y Tajadas;Pollo a la BBQ  con Papas asadas y Tajadas
+66;2025-08-24;Pollo;a la BBQ; con Papas asadas;Pollo a la BBQ  con Papas asadas
+67;2025-08-24;Pollo;a la BBQ; con Patacones y Ensalada de papa;Pollo a la BBQ  con Patacones y Ensalada de papa
+68;2025-08-24;Pollo;a la BBQ; con Patacones y Ensalada de repollo con zanahoria;Pollo a la BBQ  con Patacones y Ensalada de repollo con zanahoria
+69;2025-08-24;Pollo;a la BBQ; con Patacones y Tajadas;Pollo a la BBQ  con Patacones y Tajadas
+70;2025-08-24;Pollo;a la BBQ; con Patacones;Pollo a la BBQ  con Patacones
+71;2025-08-24;Pollo;a la Naranja; con Arroz blanco y Ensalada de papa;Pollo a la Naranja  con Arroz blanco y Ensalada de papa
+72;2025-08-24;Pollo;a la Naranja; con Arroz blanco y Ensalada de repollo con zanahoria;Pollo a la Naranja  con Arroz blanco y Ensalada de repollo con zanahoria
+73;2025-08-24;Pollo;a la Naranja; con Arroz blanco y Tajadas;Pollo a la Naranja  con Arroz blanco y Tajadas
+74;2025-08-24;Pollo;a la Naranja; con Arroz blanco;Pollo a la Naranja  con Arroz blanco
+75;2025-08-24;Pollo;a la Naranja; con Arroz con maíz y Ensalada de papa;Pollo a la Naranja  con Arroz con maíz y Ensalada de papa
+76;2025-08-24;Pollo;a la Naranja; con Arroz con maíz y Ensalada de repollo con zanahoria;Pollo a la Naranja  con Arroz con maíz y Ensalada de repollo con zanahoria
+77;2025-08-24;Pollo;a la Naranja; con Arroz con maíz y Tajadas;Pollo a la Naranja  con Arroz con maíz y Tajadas
+78;2025-08-24;Pollo;a la Naranja; con Arroz con maíz;Pollo a la Naranja  con Arroz con maíz
+79;2025-08-24;Pollo;a la Naranja; con Arroz con guandú y Ensalada de papa;Pollo a la Naranja  con Arroz con guandú y Ensalada de papa
+80;2025-08-24;Pollo;a la Naranja; con Arroz con guandú y Ensalada de repollo con zanahoria;Pollo a la Naranja  con Arroz con guandú y Ensalada de repollo con zanahoria
+81;2025-08-24;Pollo;a la Naranja; con Arroz con guandú y Tajadas;Pollo a la Naranja  con Arroz con guandú y Tajadas
+82;2025-08-24;Pollo;a la Naranja; con Arroz con guandú;Pollo a la Naranja  con Arroz con guandú
+83;2025-08-24;Pollo;a la Naranja; con Arroz con lentejas y Ensalada de papa;Pollo a la Naranja  con Arroz con lentejas y Ensalada de papa
+84;2025-08-24;Pollo;a la Naranja; con Arroz con lentejas y Ensalada de repollo con zanahoria;Pollo a la Naranja  con Arroz con lentejas y Ensalada de repollo con zanahoria
+85;2025-08-24;Pollo;a la Naranja; con Arroz con lentejas y Tajadas;Pollo a la Naranja  con Arroz con lentejas y Tajadas
+86;2025-08-24;Pollo;a la Naranja; con Arroz con lentejas;Pollo a la Naranja  con Arroz con lentejas
+87;2025-08-24;Pollo;a la Naranja; con Arroz verde y Ensalada de papa;Pollo a la Naranja  con Arroz verde y Ensalada de papa
+88;2025-08-24;Pollo;a la Naranja; con Arroz verde y Ensalada de repollo con zanahoria;Pollo a la Naranja  con Arroz verde y Ensalada de repollo con zanahoria
+89;2025-08-24;Pollo;a la Naranja; con Arroz verde y Tajadas;Pollo a la Naranja  con Arroz verde y Tajadas
+90;2025-08-24;Pollo;a la Naranja; con Arroz verde;Pollo a la Naranja  con Arroz verde
+91;2025-08-24;Pollo;a la Naranja; con Puré de papas y Ensalada de papa;Pollo a la Naranja  con Puré de papas y Ensalada de papa
+92;2025-08-24;Pollo;a la Naranja; con Puré de papas y Tajadas;Pollo a la Naranja  con Puré de papas y Tajadas
+93;2025-08-24;Pollo;a la Naranja; con Puré de papas;Pollo a la Naranja  con Puré de papas
+94;2025-08-24;Pollo;a la Naranja; con Papas fritas y Ensalada de papa;Pollo a la Naranja  con Papas fritas y Ensalada de papa
+95;2025-08-24;Pollo;a la Naranja; con Papas fritas y Ensalada de repollo con zanahoria;Pollo a la Naranja  con Papas fritas y Ensalada de repollo con zanahoria
+96;2025-08-24;Pollo;a la Naranja; con Papas fritas y Tajadas;Pollo a la Naranja  con Papas fritas y Tajadas
+97;2025-08-24;Pollo;a la Naranja; con Papas fritas;Pollo a la Naranja  con Papas fritas
+98;2025-08-24;Pollo;a la Naranja; con Papas asadas y Ensalada de papa;Pollo a la Naranja  con Papas asadas y Ensalada de papa
+99;2025-08-24;Pollo;a la Naranja; con Papas asadas y Ensalada de repollo con zanahoria;Pollo a la Naranja  con Papas asadas y Ensalada de repollo con zanahoria
+100;2025-08-24;Pollo;a la Naranja; con Papas asadas y Tajadas;Pollo a la Naranja  con Papas asadas y Tajadas
+101;2025-08-24;Pollo;a la Naranja; con Papas asadas;Pollo a la Naranja  con Papas asadas
+102;2025-08-24;Pollo;a la Naranja; con Patacones y Ensalada de papa;Pollo a la Naranja  con Patacones y Ensalada de papa
+103;2025-08-24;Pollo;a la Naranja; con Patacones y Ensalada de repollo con zanahoria;Pollo a la Naranja  con Patacones y Ensalada de repollo con zanahoria
+104;2025-08-24;Pollo;a la Naranja; con Patacones y Tajadas;Pollo a la Naranja  con Patacones y Tajadas
+105;2025-08-24;Pollo;a la Naranja; con Patacones;Pollo a la Naranja  con Patacones
+106;2025-08-24;Pollo;al Horno; con Arroz blanco y Ensalada de papa;Pollo al Horno  con Arroz blanco y Ensalada de papa
+107;2025-08-24;Pollo;al Horno; con Arroz blanco y Ensalada de repollo con zanahoria;Pollo al Horno  con Arroz blanco y Ensalada de repollo con zanahoria
+108;2025-08-24;Pollo;al Horno; con Arroz blanco y Tajadas;Pollo al Horno  con Arroz blanco y Tajadas
+109;2025-08-24;Pollo;al Horno; con Arroz blanco;Pollo al Horno  con Arroz blanco
+110;2025-08-24;Pollo;al Horno; con Arroz con maíz y Ensalada de papa;Pollo al Horno  con Arroz con maíz y Ensalada de papa
+111;2025-08-24;Pollo;al Horno; con Arroz con maíz y Ensalada de repollo con zanahoria;Pollo al Horno  con Arroz con maíz y Ensalada de repollo con zanahoria
+112;2025-08-24;Pollo;al Horno; con Arroz con maíz y Tajadas;Pollo al Horno  con Arroz con maíz y Tajadas
+113;2025-08-24;Pollo;al Horno; con Arroz con maíz;Pollo al Horno  con Arroz con maíz
+114;2025-08-24;Pollo;al Horno; con Arroz con guandú y Ensalada de papa;Pollo al Horno  con Arroz con guandú y Ensalada de papa
+115;2025-08-24;Pollo;al Horno; con Arroz con guandú y Ensalada de repollo con zanahoria;Pollo al Horno  con Arroz con guandú y Ensalada de repollo con zanahoria
+116;2025-08-24;Pollo;al Horno; con Arroz con guandú y Tajadas;Pollo al Horno  con Arroz con guandú y Tajadas
+117;2025-08-24;Pollo;al Horno; con Arroz con guandú;Pollo al Horno  con Arroz con guandú
+118;2025-08-24;Pollo;al Horno; con Arroz con lentejas y Ensalada de papa;Pollo al Horno  con Arroz con lentejas y Ensalada de papa
+119;2025-08-24;Pollo;al Horno; con Arroz con lentejas y Ensalada de repollo con zanahoria;Pollo al Horno  con Arroz con lentejas y Ensalada de repollo con zanahoria
+120;2025-08-24;Pollo;al Horno; con Arroz con lentejas y Tajadas;Pollo al Horno  con Arroz con lentejas y Tajadas
+121;2025-08-24;Pollo;al Horno; con Arroz con lentejas;Pollo al Horno  con Arroz con lentejas
+122;2025-08-24;Pollo;al Horno; con Arroz verde y Ensalada de papa;Pollo al Horno  con Arroz verde y Ensalada de papa
+123;2025-08-24;Pollo;al Horno; con Arroz verde y Ensalada de repollo con zanahoria;Pollo al Horno  con Arroz verde y Ensalada de repollo con zanahoria
+124;2025-08-24;Pollo;al Horno; con Arroz verde y Tajadas;Pollo al Horno  con Arroz verde y Tajadas
+125;2025-08-24;Pollo;al Horno; con Arroz verde;Pollo al Horno  con Arroz verde
+126;2025-08-24;Pollo;al Horno; con Puré de papas y Ensalada de papa;Pollo al Horno  con Puré de papas y Ensalada de papa
+127;2025-08-24;Pollo;al Horno; con Puré de papas y Tajadas;Pollo al Horno  con Puré de papas y Tajadas
+128;2025-08-24;Pollo;al Horno; con Puré de papas;Pollo al Horno  con Puré de papas
+129;2025-08-24;Pollo;al Horno; con Papas fritas y Ensalada de papa;Pollo al Horno  con Papas fritas y Ensalada de papa
+130;2025-08-24;Pollo;al Horno; con Papas fritas y Ensalada de repollo con zanahoria;Pollo al Horno  con Papas fritas y Ensalada de repollo con zanahoria
+131;2025-08-24;Pollo;al Horno; con Papas fritas y Tajadas;Pollo al Horno  con Papas fritas y Tajadas
+132;2025-08-24;Pollo;al Horno; con Papas fritas;Pollo al Horno  con Papas fritas
+133;2025-08-24;Pollo;al Horno; con Papas asadas y Ensalada de papa;Pollo al Horno  con Papas asadas y Ensalada de papa
+134;2025-08-24;Pollo;al Horno; con Papas asadas y Ensalada de repollo con zanahoria;Pollo al Horno  con Papas asadas y Ensalada de repollo con zanahoria
+135;2025-08-24;Pollo;al Horno; con Papas asadas y Tajadas;Pollo al Horno  con Papas asadas y Tajadas
+136;2025-08-24;Pollo;al Horno; con Papas asadas;Pollo al Horno  con Papas asadas
+137;2025-08-24;Pollo;al Horno; con Patacones y Ensalada de papa;Pollo al Horno  con Patacones y Ensalada de papa
+138;2025-08-24;Pollo;al Horno; con Patacones y Ensalada de repollo con zanahoria;Pollo al Horno  con Patacones y Ensalada de repollo con zanahoria
+139;2025-08-24;Pollo;al Horno; con Patacones y Tajadas;Pollo al Horno  con Patacones y Tajadas
+140;2025-08-24;Pollo;al Horno; con Patacones;Pollo al Horno  con Patacones
+141;2025-08-24;Pollo;Guisado; con Arroz blanco y Ensalada de papa;Pollo Guisado  con Arroz blanco y Ensalada de papa
+142;2025-08-24;Pollo;Guisado; con Arroz blanco y Ensalada de repollo con zanahoria;Pollo Guisado  con Arroz blanco y Ensalada de repollo con zanahoria
+143;2025-08-24;Pollo;Guisado; con Arroz blanco y Tajadas;Pollo Guisado  con Arroz blanco y Tajadas
+144;2025-08-24;Pollo;Guisado; con Arroz blanco y Pico de gallo;Pollo Guisado  con Arroz blanco y Pico de gallo
+145;2025-08-24;Pollo;Guisado; con Arroz blanco;Pollo Guisado  con Arroz blanco
+146;2025-08-24;Pollo;Guisado; con Arroz con maíz y Ensalada de papa;Pollo Guisado  con Arroz con maíz y Ensalada de papa
+147;2025-08-24;Pollo;Guisado; con Arroz con maíz y Ensalada de repollo con zanahoria;Pollo Guisado  con Arroz con maíz y Ensalada de repollo con zanahoria
+148;2025-08-24;Pollo;Guisado; con Arroz con maíz y Tajadas;Pollo Guisado  con Arroz con maíz y Tajadas
+149;2025-08-24;Pollo;Guisado; con Arroz con maíz y Pico de gallo;Pollo Guisado  con Arroz con maíz y Pico de gallo
+150;2025-08-24;Pollo;Guisado; con Arroz con maíz;Pollo Guisado  con Arroz con maíz
+151;2025-08-24;Pollo;Guisado; con Arroz con guandú y Ensalada de papa;Pollo Guisado  con Arroz con guandú y Ensalada de papa
+152;2025-08-24;Pollo;Guisado; con Arroz con guandú y Ensalada de repollo con zanahoria;Pollo Guisado  con Arroz con guandú y Ensalada de repollo con zanahoria
+153;2025-08-24;Pollo;Guisado; con Arroz con guandú y Tajadas;Pollo Guisado  con Arroz con guandú y Tajadas
+154;2025-08-24;Pollo;Guisado; con Arroz con guandú y Pico de gallo;Pollo Guisado  con Arroz con guandú y Pico de gallo
+155;2025-08-24;Pollo;Guisado; con Arroz con guandú;Pollo Guisado  con Arroz con guandú
+156;2025-08-24;Pollo;Guisado; con Arroz con lentejas y Ensalada de papa;Pollo Guisado  con Arroz con lentejas y Ensalada de papa
+157;2025-08-24;Pollo;Guisado; con Arroz con lentejas y Ensalada de repollo con zanahoria;Pollo Guisado  con Arroz con lentejas y Ensalada de repollo con zanahoria
+158;2025-08-24;Pollo;Guisado; con Arroz con lentejas y Tajadas;Pollo Guisado  con Arroz con lentejas y Tajadas
+159;2025-08-24;Pollo;Guisado; con Arroz con lentejas y Pico de gallo;Pollo Guisado  con Arroz con lentejas y Pico de gallo
+160;2025-08-24;Pollo;Guisado; con Arroz con lentejas;Pollo Guisado  con Arroz con lentejas
+161;2025-08-24;Pollo;Guisado; con Arroz verde y Ensalada de papa;Pollo Guisado  con Arroz verde y Ensalada de papa
+162;2025-08-24;Pollo;Guisado; con Arroz verde y Ensalada de repollo con zanahoria;Pollo Guisado  con Arroz verde y Ensalada de repollo con zanahoria
+163;2025-08-24;Pollo;Guisado; con Arroz verde y Tajadas;Pollo Guisado  con Arroz verde y Tajadas
+164;2025-08-24;Pollo;Guisado; con Arroz verde y Pico de gallo;Pollo Guisado  con Arroz verde y Pico de gallo
+165;2025-08-24;Pollo;Guisado; con Arroz verde;Pollo Guisado  con Arroz verde
+166;2025-08-24;Pollo;Guisado; con Puré de papas y Ensalada de papa;Pollo Guisado  con Puré de papas y Ensalada de papa
+167;2025-08-24;Pollo;Guisado; con Puré de papas y Tajadas;Pollo Guisado  con Puré de papas y Tajadas
+168;2025-08-24;Pollo;Guisado; con Puré de papas y Pico de gallo;Pollo Guisado  con Puré de papas y Pico de gallo
+169;2025-08-24;Pollo;Guisado; con Puré de papas;Pollo Guisado  con Puré de papas
+170;2025-08-24;Pollo;Guisado; con Papas fritas y Ensalada de papa;Pollo Guisado  con Papas fritas y Ensalada de papa
+171;2025-08-24;Pollo;Guisado; con Papas fritas y Ensalada de repollo con zanahoria;Pollo Guisado  con Papas fritas y Ensalada de repollo con zanahoria
+172;2025-08-24;Pollo;Guisado; con Papas fritas y Tajadas;Pollo Guisado  con Papas fritas y Tajadas
+173;2025-08-24;Pollo;Guisado; con Papas fritas y Pico de gallo;Pollo Guisado  con Papas fritas y Pico de gallo
+174;2025-08-24;Pollo;Guisado; con Papas fritas;Pollo Guisado  con Papas fritas
+175;2025-08-24;Pollo;Guisado; con Papas asadas y Ensalada de papa;Pollo Guisado  con Papas asadas y Ensalada de papa
+176;2025-08-24;Pollo;Guisado; con Papas asadas y Ensalada de repollo con zanahoria;Pollo Guisado  con Papas asadas y Ensalada de repollo con zanahoria
+177;2025-08-24;Pollo;Guisado; con Papas asadas y Tajadas;Pollo Guisado  con Papas asadas y Tajadas
+178;2025-08-24;Pollo;Guisado; con Papas asadas y Pico de gallo;Pollo Guisado  con Papas asadas y Pico de gallo
+179;2025-08-24;Pollo;Guisado; con Papas asadas;Pollo Guisado  con Papas asadas
+180;2025-08-24;Pollo;Guisado; con Patacones y Ensalada de papa;Pollo Guisado  con Patacones y Ensalada de papa
+181;2025-08-24;Pollo;Guisado; con Patacones y Ensalada de repollo con zanahoria;Pollo Guisado  con Patacones y Ensalada de repollo con zanahoria
+182;2025-08-24;Pollo;Guisado; con Patacones y Tajadas;Pollo Guisado  con Patacones y Tajadas
+183;2025-08-24;Pollo;Guisado; con Patacones y Pico de gallo;Pollo Guisado  con Patacones y Pico de gallo
+184;2025-08-24;Pollo;Guisado; con Patacones;Pollo Guisado  con Patacones
+185;2025-08-24;Pollo;A la Parmesana; con Arroz blanco y Ensalada de papa;Pollo A la Parmesana  con Arroz blanco y Ensalada de papa
+186;2025-08-24;Pollo;A la Parmesana; con Arroz blanco y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Arroz blanco y Ensalada de repollo con zanahoria
+187;2025-08-24;Pollo;A la Parmesana; con Arroz blanco y Tajadas;Pollo A la Parmesana  con Arroz blanco y Tajadas
+188;2025-08-24;Pollo;A la Parmesana; con Arroz blanco;Pollo A la Parmesana  con Arroz blanco
+189;2025-08-24;Pollo;A la Parmesana; con Arroz con maíz y Ensalada de papa;Pollo A la Parmesana  con Arroz con maíz y Ensalada de papa
+190;2025-08-24;Pollo;A la Parmesana; con Arroz con maíz y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Arroz con maíz y Ensalada de repollo con zanahoria
+191;2025-08-24;Pollo;A la Parmesana; con Arroz con maíz y Tajadas;Pollo A la Parmesana  con Arroz con maíz y Tajadas
+192;2025-08-24;Pollo;A la Parmesana; con Arroz con maíz;Pollo A la Parmesana  con Arroz con maíz
+193;2025-08-24;Pollo;A la Parmesana; con Arroz con guandú y Ensalada de papa;Pollo A la Parmesana  con Arroz con guandú y Ensalada de papa
+194;2025-08-24;Pollo;A la Parmesana; con Arroz con guandú y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Arroz con guandú y Ensalada de repollo con zanahoria
+195;2025-08-24;Pollo;A la Parmesana; con Arroz con guandú y Tajadas;Pollo A la Parmesana  con Arroz con guandú y Tajadas
+196;2025-08-24;Pollo;A la Parmesana; con Arroz con guandú;Pollo A la Parmesana  con Arroz con guandú
+197;2025-08-24;Pollo;A la Parmesana; con Arroz con lentejas y Ensalada de papa;Pollo A la Parmesana  con Arroz con lentejas y Ensalada de papa
+198;2025-08-24;Pollo;A la Parmesana; con Arroz con lentejas y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Arroz con lentejas y Ensalada de repollo con zanahoria
+199;2025-08-24;Pollo;A la Parmesana; con Arroz con lentejas y Tajadas;Pollo A la Parmesana  con Arroz con lentejas y Tajadas
+200;2025-08-24;Pollo;A la Parmesana; con Arroz con lentejas;Pollo A la Parmesana  con Arroz con lentejas
+201;2025-08-24;Pollo;A la Parmesana; con Arroz verde y Ensalada de papa;Pollo A la Parmesana  con Arroz verde y Ensalada de papa
+202;2025-08-24;Pollo;A la Parmesana; con Arroz verde y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Arroz verde y Ensalada de repollo con zanahoria
+203;2025-08-24;Pollo;A la Parmesana; con Arroz verde y Tajadas;Pollo A la Parmesana  con Arroz verde y Tajadas
+204;2025-08-24;Pollo;A la Parmesana; con Arroz verde;Pollo A la Parmesana  con Arroz verde
+205;2025-08-24;Pollo;A la Parmesana; con Puré de papas y Ensalada de papa;Pollo A la Parmesana  con Puré de papas y Ensalada de papa
+206;2025-08-24;Pollo;A la Parmesana; con Puré de papas y Tajadas;Pollo A la Parmesana  con Puré de papas y Tajadas
+207;2025-08-24;Pollo;A la Parmesana; con Puré de papas;Pollo A la Parmesana  con Puré de papas
+208;2025-08-24;Pollo;A la Parmesana; con Papas fritas y Ensalada de papa;Pollo A la Parmesana  con Papas fritas y Ensalada de papa
+209;2025-08-24;Pollo;A la Parmesana; con Papas fritas y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Papas fritas y Ensalada de repollo con zanahoria
+210;2025-08-24;Pollo;A la Parmesana; con Papas fritas y Tajadas;Pollo A la Parmesana  con Papas fritas y Tajadas
+211;2025-08-24;Pollo;A la Parmesana; con Papas fritas;Pollo A la Parmesana  con Papas fritas
+212;2025-08-24;Pollo;A la Parmesana; con Papas asadas y Ensalada de papa;Pollo A la Parmesana  con Papas asadas y Ensalada de papa
+213;2025-08-24;Pollo;A la Parmesana; con Papas asadas y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Papas asadas y Ensalada de repollo con zanahoria
+214;2025-08-24;Pollo;A la Parmesana; con Papas asadas y Tajadas;Pollo A la Parmesana  con Papas asadas y Tajadas
+215;2025-08-24;Pollo;A la Parmesana; con Papas asadas;Pollo A la Parmesana  con Papas asadas
+216;2025-08-24;Pollo;A la Parmesana; con Patacones y Ensalada de papa;Pollo A la Parmesana  con Patacones y Ensalada de papa
+217;2025-08-24;Pollo;A la Parmesana; con Patacones y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Patacones y Ensalada de repollo con zanahoria
+218;2025-08-24;Pollo;A la Parmesana; con Patacones y Tajadas;Pollo A la Parmesana  con Patacones y Tajadas
+219;2025-08-24;Pollo;A la Parmesana; con Patacones;Pollo A la Parmesana  con Patacones
+220;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa roja y Ensalada de papa;Pollo A la Parmesana  con Macarrones salsa roja y Ensalada de papa
+221;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa roja y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Macarrones salsa roja y Ensalada de repollo con zanahoria
+222;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa roja y Tajadas;Pollo A la Parmesana  con Macarrones salsa roja y Tajadas
+223;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa roja y Brochettas de tomate;Pollo A la Parmesana  con Macarrones salsa roja y Brochettas de tomate
+224;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa roja y Pan de ajo;Pollo A la Parmesana  con Macarrones salsa roja y Pan de ajo
+225;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa roja;Pollo A la Parmesana  con Macarrones salsa roja
+226;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa blanca y Ensalada de papa;Pollo A la Parmesana  con Macarrones salsa blanca y Ensalada de papa
+227;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa blanca y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Macarrones salsa blanca y Ensalada de repollo con zanahoria
+228;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa blanca y Tajadas;Pollo A la Parmesana  con Macarrones salsa blanca y Tajadas
+229;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa blanca y Brochettas de tomate;Pollo A la Parmesana  con Macarrones salsa blanca y Brochettas de tomate
+230;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa blanca y Pan de ajo;Pollo A la Parmesana  con Macarrones salsa blanca y Pan de ajo
+231;2025-08-24;Pollo;A la Parmesana; con Macarrones salsa blanca;Pollo A la Parmesana  con Macarrones salsa blanca
+232;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa roja y Ensalada de papa;Pollo A la Parmesana  con Pasta en salsa roja y Ensalada de papa
+233;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa roja y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Pasta en salsa roja y Ensalada de repollo con zanahoria
+234;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa roja y Tajadas;Pollo A la Parmesana  con Pasta en salsa roja y Tajadas
+235;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa roja y Brochettas de tomate;Pollo A la Parmesana  con Pasta en salsa roja y Brochettas de tomate
+236;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa roja y Pan de ajo;Pollo A la Parmesana  con Pasta en salsa roja y Pan de ajo
+237;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa roja;Pollo A la Parmesana  con Pasta en salsa roja
+238;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa blanca y Ensalada de papa;Pollo A la Parmesana  con Pasta en salsa blanca y Ensalada de papa
+239;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa blanca y Ensalada de repollo con zanahoria;Pollo A la Parmesana  con Pasta en salsa blanca y Ensalada de repollo con zanahoria
+240;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa blanca y Tajadas;Pollo A la Parmesana  con Pasta en salsa blanca y Tajadas
+241;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa blanca y Brochettas de tomate;Pollo A la Parmesana  con Pasta en salsa blanca y Brochettas de tomate
+242;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa blanca y Pan de ajo;Pollo A la Parmesana  con Pasta en salsa blanca y Pan de ajo
+243;2025-08-24;Pollo;A la Parmesana; con Pasta en salsa blanca;Pollo A la Parmesana  con Pasta en salsa blanca
+244;2025-08-24;Pollo;Apanado; con Arroz blanco y Ensalada de papa;Pollo Apanado  con Arroz blanco y Ensalada de papa
+245;2025-08-24;Pollo;Apanado; con Arroz blanco y Ensalada de repollo con zanahoria;Pollo Apanado  con Arroz blanco y Ensalada de repollo con zanahoria
+246;2025-08-24;Pollo;Apanado; con Arroz blanco y Tajadas;Pollo Apanado  con Arroz blanco y Tajadas
+247;2025-08-24;Pollo;Apanado; con Arroz blanco;Pollo Apanado  con Arroz blanco
+248;2025-08-24;Pollo;Apanado; con Arroz con maíz y Ensalada de papa;Pollo Apanado  con Arroz con maíz y Ensalada de papa
+249;2025-08-24;Pollo;Apanado; con Arroz con maíz y Ensalada de repollo con zanahoria;Pollo Apanado  con Arroz con maíz y Ensalada de repollo con zanahoria
+250;2025-08-24;Pollo;Apanado; con Arroz con maíz y Tajadas;Pollo Apanado  con Arroz con maíz y Tajadas
+251;2025-08-24;Pollo;Apanado; con Arroz con maíz;Pollo Apanado  con Arroz con maíz
+252;2025-08-24;Pollo;Apanado; con Arroz con guandú y Ensalada de papa;Pollo Apanado  con Arroz con guandú y Ensalada de papa
+253;2025-08-24;Pollo;Apanado; con Arroz con guandú y Ensalada de repollo con zanahoria;Pollo Apanado  con Arroz con guandú y Ensalada de repollo con zanahoria
+254;2025-08-24;Pollo;Apanado; con Arroz con guandú y Tajadas;Pollo Apanado  con Arroz con guandú y Tajadas
+255;2025-08-24;Pollo;Apanado; con Arroz con guandú;Pollo Apanado  con Arroz con guandú
+256;2025-08-24;Pollo;Apanado; con Arroz con lentejas y Ensalada de papa;Pollo Apanado  con Arroz con lentejas y Ensalada de papa
+257;2025-08-24;Pollo;Apanado; con Arroz con lentejas y Ensalada de repollo con zanahoria;Pollo Apanado  con Arroz con lentejas y Ensalada de repollo con zanahoria
+258;2025-08-24;Pollo;Apanado; con Arroz con lentejas y Tajadas;Pollo Apanado  con Arroz con lentejas y Tajadas
+259;2025-08-24;Pollo;Apanado; con Arroz con lentejas;Pollo Apanado  con Arroz con lentejas
+260;2025-08-24;Pollo;Apanado; con Arroz verde y Ensalada de papa;Pollo Apanado  con Arroz verde y Ensalada de papa
+261;2025-08-24;Pollo;Apanado; con Arroz verde y Ensalada de repollo con zanahoria;Pollo Apanado  con Arroz verde y Ensalada de repollo con zanahoria
+262;2025-08-24;Pollo;Apanado; con Arroz verde y Tajadas;Pollo Apanado  con Arroz verde y Tajadas
+263;2025-08-24;Pollo;Apanado; con Arroz verde;Pollo Apanado  con Arroz verde
+264;2025-08-24;Pollo;Apanado; con Puré de papas y Ensalada de papa;Pollo Apanado  con Puré de papas y Ensalada de papa
+265;2025-08-24;Pollo;Apanado; con Puré de papas y Tajadas;Pollo Apanado  con Puré de papas y Tajadas
+266;2025-08-24;Pollo;Apanado; con Puré de papas;Pollo Apanado  con Puré de papas
+267;2025-08-24;Pollo;Apanado; con Papas fritas y Ensalada de papa;Pollo Apanado  con Papas fritas y Ensalada de papa
+268;2025-08-24;Pollo;Apanado; con Papas fritas y Ensalada de repollo con zanahoria;Pollo Apanado  con Papas fritas y Ensalada de repollo con zanahoria
+269;2025-08-24;Pollo;Apanado; con Papas fritas y Tajadas;Pollo Apanado  con Papas fritas y Tajadas
+270;2025-08-24;Pollo;Apanado; con Papas fritas;Pollo Apanado  con Papas fritas
+271;2025-08-24;Pollo;Apanado; con Papas asadas y Ensalada de papa;Pollo Apanado  con Papas asadas y Ensalada de papa
+272;2025-08-24;Pollo;Apanado; con Papas asadas y Ensalada de repollo con zanahoria;Pollo Apanado  con Papas asadas y Ensalada de repollo con zanahoria
+273;2025-08-24;Pollo;Apanado; con Papas asadas y Tajadas;Pollo Apanado  con Papas asadas y Tajadas
+274;2025-08-24;Pollo;Apanado; con Papas asadas;Pollo Apanado  con Papas asadas
+275;2025-08-24;Pollo;Apanado; con Patacones y Ensalada de papa;Pollo Apanado  con Patacones y Ensalada de papa
+276;2025-08-24;Pollo;Apanado; con Patacones y Ensalada de repollo con zanahoria;Pollo Apanado  con Patacones y Ensalada de repollo con zanahoria
+277;2025-08-24;Pollo;Apanado; con Patacones y Tajadas;Pollo Apanado  con Patacones y Tajadas
+278;2025-08-24;Pollo;Apanado; con Patacones;Pollo Apanado  con Patacones
+279;2025-08-24;Pollo;a la Plancha; con Arroz blanco y Ensalada de papa;Pollo a la Plancha  con Arroz blanco y Ensalada de papa
+280;2025-08-24;Pollo;a la Plancha; con Arroz blanco y Ensalada de repollo con zanahoria;Pollo a la Plancha  con Arroz blanco y Ensalada de repollo con zanahoria
+281;2025-08-24;Pollo;a la Plancha; con Arroz blanco y Tajadas;Pollo a la Plancha  con Arroz blanco y Tajadas
+282;2025-08-24;Pollo;a la Plancha; con Arroz blanco;Pollo a la Plancha  con Arroz blanco
+283;2025-08-24;Pollo;a la Plancha; con Arroz con maíz y Ensalada de papa;Pollo a la Plancha  con Arroz con maíz y Ensalada de papa
+284;2025-08-24;Pollo;a la Plancha; con Arroz con maíz y Ensalada de repollo con zanahoria;Pollo a la Plancha  con Arroz con maíz y Ensalada de repollo con zanahoria
+285;2025-08-24;Pollo;a la Plancha; con Arroz con maíz y Tajadas;Pollo a la Plancha  con Arroz con maíz y Tajadas
+286;2025-08-24;Pollo;a la Plancha; con Arroz con maíz;Pollo a la Plancha  con Arroz con maíz
+287;2025-08-24;Pollo;a la Plancha; con Arroz con guandú y Ensalada de papa;Pollo a la Plancha  con Arroz con guandú y Ensalada de papa
+288;2025-08-24;Pollo;a la Plancha; con Arroz con guandú y Ensalada de repollo con zanahoria;Pollo a la Plancha  con Arroz con guandú y Ensalada de repollo con zanahoria
+289;2025-08-24;Pollo;a la Plancha; con Arroz con guandú y Tajadas;Pollo a la Plancha  con Arroz con guandú y Tajadas
+290;2025-08-24;Pollo;a la Plancha; con Arroz con guandú;Pollo a la Plancha  con Arroz con guandú
+291;2025-08-24;Pollo;a la Plancha; con Arroz con lentejas y Ensalada de papa;Pollo a la Plancha  con Arroz con lentejas y Ensalada de papa
+292;2025-08-24;Pollo;a la Plancha; con Arroz con lentejas y Ensalada de repollo con zanahoria;Pollo a la Plancha  con Arroz con lentejas y Ensalada de repollo con zanahoria
+293;2025-08-24;Pollo;a la Plancha; con Arroz con lentejas y Tajadas;Pollo a la Plancha  con Arroz con lentejas y Tajadas
+294;2025-08-24;Pollo;a la Plancha; con Arroz con lentejas;Pollo a la Plancha  con Arroz con lentejas
+295;2025-08-24;Pollo;a la Plancha; con Arroz verde y Ensalada de papa;Pollo a la Plancha  con Arroz verde y Ensalada de papa
+296;2025-08-24;Pollo;a la Plancha; con Arroz verde y Ensalada de repollo con zanahoria;Pollo a la Plancha  con Arroz verde y Ensalada de repollo con zanahoria
+297;2025-08-24;Pollo;a la Plancha; con Arroz verde y Tajadas;Pollo a la Plancha  con Arroz verde y Tajadas
+298;2025-08-24;Pollo;a la Plancha; con Arroz verde;Pollo a la Plancha  con Arroz verde
+299;2025-08-24;Pollo;a la Plancha; con Puré de papas y Ensalada de papa;Pollo a la Plancha  con Puré de papas y Ensalada de papa
+300;2025-08-24;Pollo;a la Plancha; con Puré de papas y Tajadas;Pollo a la Plancha  con Puré de papas y Tajadas
+301;2025-08-24;Pollo;a la Plancha; con Puré de papas;Pollo a la Plancha  con Puré de papas
+302;2025-08-24;Pollo;a la Plancha; con Papas fritas y Ensalada de papa;Pollo a la Plancha  con Papas fritas y Ensalada de papa
+303;2025-08-24;Pollo;a la Plancha; con Papas fritas y Ensalada de repollo con zanahoria;Pollo a la Plancha  con Papas fritas y Ensalada de repollo con zanahoria
+304;2025-08-24;Pollo;a la Plancha; con Papas fritas y Tajadas;Pollo a la Plancha  con Papas fritas y Tajadas
+305;2025-08-24;Pollo;a la Plancha; con Papas fritas;Pollo a la Plancha  con Papas fritas
+306;2025-08-24;Pollo;a la Plancha; con Papas asadas y Ensalada de papa;Pollo a la Plancha  con Papas asadas y Ensalada de papa
+307;2025-08-24;Pollo;a la Plancha; con Papas asadas y Ensalada de repollo con zanahoria;Pollo a la Plancha  con Papas asadas y Ensalada de repollo con zanahoria
+308;2025-08-24;Pollo;a la Plancha; con Papas asadas y Tajadas;Pollo a la Plancha  con Papas asadas y Tajadas
+309;2025-08-24;Pollo;a la Plancha; con Papas asadas;Pollo a la Plancha  con Papas asadas
+310;2025-08-24;Pollo;a la Plancha; con Patacones y Ensalada de papa;Pollo a la Plancha  con Patacones y Ensalada de papa
+311;2025-08-24;Pollo;a la Plancha; con Patacones y Ensalada de repollo con zanahoria;Pollo a la Plancha  con Patacones y Ensalada de repollo con zanahoria
+312;2025-08-24;Pollo;a la Plancha; con Patacones y Tajadas;Pollo a la Plancha  con Patacones y Tajadas
+313;2025-08-24;Pollo;a la Plancha; con Patacones;Pollo a la Plancha  con Patacones
+314;2025-08-24;Cerdo;Agridulce; con Arroz blanco y Ensalada de papa;Cerdo Agridulce  con Arroz blanco y Ensalada de papa
+315;2025-08-24;Cerdo;Agridulce; con Arroz blanco y Ensalada de repollo con zanahoria;Cerdo Agridulce  con Arroz blanco y Ensalada de repollo con zanahoria
+316;2025-08-24;Cerdo;Agridulce; con Arroz blanco y Tajadas;Cerdo Agridulce  con Arroz blanco y Tajadas
+317;2025-08-24;Cerdo;Agridulce; con Arroz blanco;Cerdo Agridulce  con Arroz blanco
+318;2025-08-24;Cerdo;Agridulce; con Arroz con maíz y Ensalada de papa;Cerdo Agridulce  con Arroz con maíz y Ensalada de papa
+319;2025-08-24;Cerdo;Agridulce; con Arroz con maíz y Ensalada de repollo con zanahoria;Cerdo Agridulce  con Arroz con maíz y Ensalada de repollo con zanahoria
+320;2025-08-24;Cerdo;Agridulce; con Arroz con maíz y Tajadas;Cerdo Agridulce  con Arroz con maíz y Tajadas
+321;2025-08-24;Cerdo;Agridulce; con Arroz con maíz;Cerdo Agridulce  con Arroz con maíz
+322;2025-08-24;Cerdo;Agridulce; con Arroz con guandú y Ensalada de papa;Cerdo Agridulce  con Arroz con guandú y Ensalada de papa
+323;2025-08-24;Cerdo;Agridulce; con Arroz con guandú y Ensalada de repollo con zanahoria;Cerdo Agridulce  con Arroz con guandú y Ensalada de repollo con zanahoria
+324;2025-08-24;Cerdo;Agridulce; con Arroz con guandú y Tajadas;Cerdo Agridulce  con Arroz con guandú y Tajadas
+325;2025-08-24;Cerdo;Agridulce; con Arroz con guandú;Cerdo Agridulce  con Arroz con guandú
+326;2025-08-24;Cerdo;Agridulce; con Arroz con lentejas y Ensalada de papa;Cerdo Agridulce  con Arroz con lentejas y Ensalada de papa
+327;2025-08-24;Cerdo;Agridulce; con Arroz con lentejas y Ensalada de repollo con zanahoria;Cerdo Agridulce  con Arroz con lentejas y Ensalada de repollo con zanahoria
+328;2025-08-24;Cerdo;Agridulce; con Arroz con lentejas y Tajadas;Cerdo Agridulce  con Arroz con lentejas y Tajadas
+329;2025-08-24;Cerdo;Agridulce; con Arroz con lentejas;Cerdo Agridulce  con Arroz con lentejas
+330;2025-08-24;Cerdo;Agridulce; con Arroz verde y Ensalada de papa;Cerdo Agridulce  con Arroz verde y Ensalada de papa
+331;2025-08-24;Cerdo;Agridulce; con Arroz verde y Ensalada de repollo con zanahoria;Cerdo Agridulce  con Arroz verde y Ensalada de repollo con zanahoria
+332;2025-08-24;Cerdo;Agridulce; con Arroz verde y Tajadas;Cerdo Agridulce  con Arroz verde y Tajadas
+333;2025-08-24;Cerdo;Agridulce; con Arroz verde;Cerdo Agridulce  con Arroz verde
+334;2025-08-24;Cerdo;Agridulce; con Puré de papas y Ensalada de papa;Cerdo Agridulce  con Puré de papas y Ensalada de papa
+335;2025-08-24;Cerdo;Agridulce; con Puré de papas y Tajadas;Cerdo Agridulce  con Puré de papas y Tajadas
+336;2025-08-24;Cerdo;Agridulce; con Puré de papas;Cerdo Agridulce  con Puré de papas
+337;2025-08-24;Cerdo;Agridulce; con Papas fritas y Ensalada de papa;Cerdo Agridulce  con Papas fritas y Ensalada de papa
+338;2025-08-24;Cerdo;Agridulce; con Papas fritas y Ensalada de repollo con zanahoria;Cerdo Agridulce  con Papas fritas y Ensalada de repollo con zanahoria
+339;2025-08-24;Cerdo;Agridulce; con Papas fritas y Tajadas;Cerdo Agridulce  con Papas fritas y Tajadas
+340;2025-08-24;Cerdo;Agridulce; con Papas fritas;Cerdo Agridulce  con Papas fritas
+341;2025-08-24;Cerdo;Agridulce; con Papas asadas y Ensalada de papa;Cerdo Agridulce  con Papas asadas y Ensalada de papa
+342;2025-08-24;Cerdo;Agridulce; con Papas asadas y Ensalada de repollo con zanahoria;Cerdo Agridulce  con Papas asadas y Ensalada de repollo con zanahoria
+343;2025-08-24;Cerdo;Agridulce; con Papas asadas y Tajadas;Cerdo Agridulce  con Papas asadas y Tajadas
+344;2025-08-24;Cerdo;Agridulce; con Papas asadas;Cerdo Agridulce  con Papas asadas
+345;2025-08-24;Cerdo;Agridulce; con Patacones y Ensalada de papa;Cerdo Agridulce  con Patacones y Ensalada de papa
+346;2025-08-24;Cerdo;Agridulce; con Patacones y Ensalada de repollo con zanahoria;Cerdo Agridulce  con Patacones y Ensalada de repollo con zanahoria
+347;2025-08-24;Cerdo;Agridulce; con Patacones y Tajadas;Cerdo Agridulce  con Patacones y Tajadas
+348;2025-08-24;Cerdo;Agridulce; con Patacones;Cerdo Agridulce  con Patacones
+349;2025-08-24;Cerdo;Guisado; con Arroz blanco y Ensalada de papa;Cerdo Guisado  con Arroz blanco y Ensalada de papa
+350;2025-08-24;Cerdo;Guisado; con Arroz blanco y Ensalada de repollo con zanahoria;Cerdo Guisado  con Arroz blanco y Ensalada de repollo con zanahoria
+351;2025-08-24;Cerdo;Guisado; con Arroz blanco y Tajadas;Cerdo Guisado  con Arroz blanco y Tajadas
+352;2025-08-24;Cerdo;Guisado; con Arroz blanco;Cerdo Guisado  con Arroz blanco
+353;2025-08-24;Cerdo;Guisado; con Arroz con maíz y Ensalada de papa;Cerdo Guisado  con Arroz con maíz y Ensalada de papa
+354;2025-08-24;Cerdo;Guisado; con Arroz con maíz y Ensalada de repollo con zanahoria;Cerdo Guisado  con Arroz con maíz y Ensalada de repollo con zanahoria
+355;2025-08-24;Cerdo;Guisado; con Arroz con maíz y Tajadas;Cerdo Guisado  con Arroz con maíz y Tajadas
+356;2025-08-24;Cerdo;Guisado; con Arroz con maíz;Cerdo Guisado  con Arroz con maíz
+357;2025-08-24;Cerdo;Guisado; con Arroz con guandú y Ensalada de papa;Cerdo Guisado  con Arroz con guandú y Ensalada de papa
+358;2025-08-24;Cerdo;Guisado; con Arroz con guandú y Ensalada de repollo con zanahoria;Cerdo Guisado  con Arroz con guandú y Ensalada de repollo con zanahoria
+359;2025-08-24;Cerdo;Guisado; con Arroz con guandú y Tajadas;Cerdo Guisado  con Arroz con guandú y Tajadas
+360;2025-08-24;Cerdo;Guisado; con Arroz con guandú;Cerdo Guisado  con Arroz con guandú
+361;2025-08-24;Cerdo;Guisado; con Arroz con lentejas y Ensalada de papa;Cerdo Guisado  con Arroz con lentejas y Ensalada de papa
+362;2025-08-24;Cerdo;Guisado; con Arroz con lentejas y Ensalada de repollo con zanahoria;Cerdo Guisado  con Arroz con lentejas y Ensalada de repollo con zanahoria
+363;2025-08-24;Cerdo;Guisado; con Arroz con lentejas y Tajadas;Cerdo Guisado  con Arroz con lentejas y Tajadas
+364;2025-08-24;Cerdo;Guisado; con Arroz con lentejas;Cerdo Guisado  con Arroz con lentejas
+365;2025-08-24;Cerdo;Guisado; con Arroz verde y Ensalada de papa;Cerdo Guisado  con Arroz verde y Ensalada de papa
+366;2025-08-24;Cerdo;Guisado; con Arroz verde y Ensalada de repollo con zanahoria;Cerdo Guisado  con Arroz verde y Ensalada de repollo con zanahoria
+367;2025-08-24;Cerdo;Guisado; con Arroz verde y Tajadas;Cerdo Guisado  con Arroz verde y Tajadas
+368;2025-08-24;Cerdo;Guisado; con Arroz verde;Cerdo Guisado  con Arroz verde
+369;2025-08-24;Cerdo;Guisado; con Puré de papas y Ensalada de papa;Cerdo Guisado  con Puré de papas y Ensalada de papa
+370;2025-08-24;Cerdo;Guisado; con Puré de papas y Tajadas;Cerdo Guisado  con Puré de papas y Tajadas
+371;2025-08-24;Cerdo;Guisado; con Puré de papas;Cerdo Guisado  con Puré de papas
+372;2025-08-24;Cerdo;Guisado; con Papas fritas y Ensalada de papa;Cerdo Guisado  con Papas fritas y Ensalada de papa
+373;2025-08-24;Cerdo;Guisado; con Papas fritas y Ensalada de repollo con zanahoria;Cerdo Guisado  con Papas fritas y Ensalada de repollo con zanahoria
+374;2025-08-24;Cerdo;Guisado; con Papas fritas y Tajadas;Cerdo Guisado  con Papas fritas y Tajadas
+375;2025-08-24;Cerdo;Guisado; con Papas fritas;Cerdo Guisado  con Papas fritas
+376;2025-08-24;Cerdo;Guisado; con Papas asadas y Ensalada de papa;Cerdo Guisado  con Papas asadas y Ensalada de papa
+377;2025-08-24;Cerdo;Guisado; con Papas asadas y Ensalada de repollo con zanahoria;Cerdo Guisado  con Papas asadas y Ensalada de repollo con zanahoria
+378;2025-08-24;Cerdo;Guisado; con Papas asadas y Tajadas;Cerdo Guisado  con Papas asadas y Tajadas
+379;2025-08-24;Cerdo;Guisado; con Papas asadas;Cerdo Guisado  con Papas asadas
+380;2025-08-24;Cerdo;Guisado; con Patacones y Ensalada de papa;Cerdo Guisado  con Patacones y Ensalada de papa
+381;2025-08-24;Cerdo;Guisado; con Patacones y Ensalada de repollo con zanahoria;Cerdo Guisado  con Patacones y Ensalada de repollo con zanahoria
+382;2025-08-24;Cerdo;Guisado; con Patacones y Tajadas;Cerdo Guisado  con Patacones y Tajadas
+383;2025-08-24;Cerdo;Guisado; con Patacones;Cerdo Guisado  con Patacones
+384;2025-08-24;Cerdo;Costillita BBQ; con Arroz blanco y Ensalada de papa;Cerdo Costillita BBQ  con Arroz blanco y Ensalada de papa
+385;2025-08-24;Cerdo;Costillita BBQ; con Arroz blanco y Ensalada de repollo con zanahoria;Cerdo Costillita BBQ  con Arroz blanco y Ensalada de repollo con zanahoria
+386;2025-08-24;Cerdo;Costillita BBQ; con Arroz blanco y Tajadas;Cerdo Costillita BBQ  con Arroz blanco y Tajadas
+387;2025-08-24;Cerdo;Costillita BBQ; con Arroz blanco;Cerdo Costillita BBQ  con Arroz blanco
+388;2025-08-24;Cerdo;Costillita BBQ; con Arroz con maíz y Ensalada de papa;Cerdo Costillita BBQ  con Arroz con maíz y Ensalada de papa
+389;2025-08-24;Cerdo;Costillita BBQ; con Arroz con maíz y Ensalada de repollo con zanahoria;Cerdo Costillita BBQ  con Arroz con maíz y Ensalada de repollo con zanahoria
+390;2025-08-24;Cerdo;Costillita BBQ; con Arroz con maíz y Tajadas;Cerdo Costillita BBQ  con Arroz con maíz y Tajadas
+391;2025-08-24;Cerdo;Costillita BBQ; con Arroz con maíz;Cerdo Costillita BBQ  con Arroz con maíz
+392;2025-08-24;Cerdo;Costillita BBQ; con Arroz con guandú y Ensalada de papa;Cerdo Costillita BBQ  con Arroz con guandú y Ensalada de papa
+393;2025-08-24;Cerdo;Costillita BBQ; con Arroz con guandú y Ensalada de repollo con zanahoria;Cerdo Costillita BBQ  con Arroz con guandú y Ensalada de repollo con zanahoria
+394;2025-08-24;Cerdo;Costillita BBQ; con Arroz con guandú y Tajadas;Cerdo Costillita BBQ  con Arroz con guandú y Tajadas
+395;2025-08-24;Cerdo;Costillita BBQ; con Arroz con guandú;Cerdo Costillita BBQ  con Arroz con guandú
+396;2025-08-24;Cerdo;Costillita BBQ; con Arroz con lentejas y Ensalada de papa;Cerdo Costillita BBQ  con Arroz con lentejas y Ensalada de papa
+397;2025-08-24;Cerdo;Costillita BBQ; con Arroz con lentejas y Ensalada de repollo con zanahoria;Cerdo Costillita BBQ  con Arroz con lentejas y Ensalada de repollo con zanahoria
+398;2025-08-24;Cerdo;Costillita BBQ; con Arroz con lentejas y Tajadas;Cerdo Costillita BBQ  con Arroz con lentejas y Tajadas
+399;2025-08-24;Cerdo;Costillita BBQ; con Arroz con lentejas;Cerdo Costillita BBQ  con Arroz con lentejas
+400;2025-08-24;Cerdo;Costillita BBQ; con Arroz verde y Ensalada de papa;Cerdo Costillita BBQ  con Arroz verde y Ensalada de papa
+401;2025-08-24;Cerdo;Costillita BBQ; con Arroz verde y Ensalada de repollo con zanahoria;Cerdo Costillita BBQ  con Arroz verde y Ensalada de repollo con zanahoria
+402;2025-08-24;Cerdo;Costillita BBQ; con Arroz verde y Tajadas;Cerdo Costillita BBQ  con Arroz verde y Tajadas
+403;2025-08-24;Cerdo;Costillita BBQ; con Arroz verde;Cerdo Costillita BBQ  con Arroz verde
+404;2025-08-24;Cerdo;Costillita BBQ; con Puré de papas y Ensalada de papa;Cerdo Costillita BBQ  con Puré de papas y Ensalada de papa
+405;2025-08-24;Cerdo;Costillita BBQ; con Puré de papas y Tajadas;Cerdo Costillita BBQ  con Puré de papas y Tajadas
+406;2025-08-24;Cerdo;Costillita BBQ; con Puré de papas;Cerdo Costillita BBQ  con Puré de papas
+407;2025-08-24;Cerdo;Costillita BBQ; con Papas fritas y Ensalada de papa;Cerdo Costillita BBQ  con Papas fritas y Ensalada de papa
+408;2025-08-24;Cerdo;Costillita BBQ; con Papas fritas y Ensalada de repollo con zanahoria;Cerdo Costillita BBQ  con Papas fritas y Ensalada de repollo con zanahoria
+409;2025-08-24;Cerdo;Costillita BBQ; con Papas fritas y Tajadas;Cerdo Costillita BBQ  con Papas fritas y Tajadas
+410;2025-08-24;Cerdo;Costillita BBQ; con Papas fritas;Cerdo Costillita BBQ  con Papas fritas
+411;2025-08-24;Cerdo;Costillita BBQ; con Papas asadas y Ensalada de papa;Cerdo Costillita BBQ  con Papas asadas y Ensalada de papa
+412;2025-08-24;Cerdo;Costillita BBQ; con Papas asadas y Ensalada de repollo con zanahoria;Cerdo Costillita BBQ  con Papas asadas y Ensalada de repollo con zanahoria
+413;2025-08-24;Cerdo;Costillita BBQ; con Papas asadas y Tajadas;Cerdo Costillita BBQ  con Papas asadas y Tajadas
+414;2025-08-24;Cerdo;Costillita BBQ; con Papas asadas;Cerdo Costillita BBQ  con Papas asadas
+415;2025-08-24;Cerdo;Costillita BBQ; con Patacones y Ensalada de papa;Cerdo Costillita BBQ  con Patacones y Ensalada de papa
+416;2025-08-24;Cerdo;Costillita BBQ; con Patacones y Ensalada de repollo con zanahoria;Cerdo Costillita BBQ  con Patacones y Ensalada de repollo con zanahoria
+417;2025-08-24;Cerdo;Costillita BBQ; con Patacones y Tajadas;Cerdo Costillita BBQ  con Patacones y Tajadas
+418;2025-08-24;Cerdo;Costillita BBQ; con Patacones;Cerdo Costillita BBQ  con Patacones
+419;2025-08-24;Cerdo;Costillita Orientales; con Arroz blanco y Ensalada de papa;Cerdo Costillita Orientales  con Arroz blanco y Ensalada de papa
+420;2025-08-24;Cerdo;Costillita Orientales; con Arroz blanco y Ensalada de repollo con zanahoria;Cerdo Costillita Orientales  con Arroz blanco y Ensalada de repollo con zanahoria
+421;2025-08-24;Cerdo;Costillita Orientales; con Arroz blanco y Tajadas;Cerdo Costillita Orientales  con Arroz blanco y Tajadas
+422;2025-08-24;Cerdo;Costillita Orientales; con Arroz blanco;Cerdo Costillita Orientales  con Arroz blanco
+423;2025-08-24;Cerdo;Costillita Orientales; con Arroz con maíz y Ensalada de papa;Cerdo Costillita Orientales  con Arroz con maíz y Ensalada de papa
+424;2025-08-24;Cerdo;Costillita Orientales; con Arroz con maíz y Ensalada de repollo con zanahoria;Cerdo Costillita Orientales  con Arroz con maíz y Ensalada de repollo con zanahoria
+425;2025-08-24;Cerdo;Costillita Orientales; con Arroz con maíz y Tajadas;Cerdo Costillita Orientales  con Arroz con maíz y Tajadas
+426;2025-08-24;Cerdo;Costillita Orientales; con Arroz con maíz;Cerdo Costillita Orientales  con Arroz con maíz
+427;2025-08-24;Cerdo;Costillita Orientales; con Arroz con guandú y Ensalada de papa;Cerdo Costillita Orientales  con Arroz con guandú y Ensalada de papa
+428;2025-08-24;Cerdo;Costillita Orientales; con Arroz con guandú y Ensalada de repollo con zanahoria;Cerdo Costillita Orientales  con Arroz con guandú y Ensalada de repollo con zanahoria
+429;2025-08-24;Cerdo;Costillita Orientales; con Arroz con guandú y Tajadas;Cerdo Costillita Orientales  con Arroz con guandú y Tajadas
+430;2025-08-24;Cerdo;Costillita Orientales; con Arroz con guandú;Cerdo Costillita Orientales  con Arroz con guandú
+431;2025-08-24;Cerdo;Costillita Orientales; con Arroz con lentejas y Ensalada de papa;Cerdo Costillita Orientales  con Arroz con lentejas y Ensalada de papa
+432;2025-08-24;Cerdo;Costillita Orientales; con Arroz con lentejas y Ensalada de repollo con zanahoria;Cerdo Costillita Orientales  con Arroz con lentejas y Ensalada de repollo con zanahoria
+433;2025-08-24;Cerdo;Costillita Orientales; con Arroz con lentejas y Tajadas;Cerdo Costillita Orientales  con Arroz con lentejas y Tajadas
+434;2025-08-24;Cerdo;Costillita Orientales; con Arroz con lentejas;Cerdo Costillita Orientales  con Arroz con lentejas
+435;2025-08-24;Cerdo;Costillita Orientales; con Arroz verde y Ensalada de papa;Cerdo Costillita Orientales  con Arroz verde y Ensalada de papa
+436;2025-08-24;Cerdo;Costillita Orientales; con Arroz verde y Ensalada de repollo con zanahoria;Cerdo Costillita Orientales  con Arroz verde y Ensalada de repollo con zanahoria
+437;2025-08-24;Cerdo;Costillita Orientales; con Arroz verde y Tajadas;Cerdo Costillita Orientales  con Arroz verde y Tajadas
+438;2025-08-24;Cerdo;Costillita Orientales; con Arroz verde;Cerdo Costillita Orientales  con Arroz verde
+439;2025-08-24;Cerdo;Costillita Orientales; con Puré de papas y Ensalada de papa;Cerdo Costillita Orientales  con Puré de papas y Ensalada de papa
+440;2025-08-24;Cerdo;Costillita Orientales; con Puré de papas y Tajadas;Cerdo Costillita Orientales  con Puré de papas y Tajadas
+441;2025-08-24;Cerdo;Costillita Orientales; con Puré de papas;Cerdo Costillita Orientales  con Puré de papas
+442;2025-08-24;Cerdo;Costillita Orientales; con Papas fritas y Ensalada de papa;Cerdo Costillita Orientales  con Papas fritas y Ensalada de papa
+443;2025-08-24;Cerdo;Costillita Orientales; con Papas fritas y Ensalada de repollo con zanahoria;Cerdo Costillita Orientales  con Papas fritas y Ensalada de repollo con zanahoria
+444;2025-08-24;Cerdo;Costillita Orientales; con Papas fritas y Tajadas;Cerdo Costillita Orientales  con Papas fritas y Tajadas
+445;2025-08-24;Cerdo;Costillita Orientales; con Papas fritas;Cerdo Costillita Orientales  con Papas fritas
+446;2025-08-24;Cerdo;Costillita Orientales; con Papas asadas y Ensalada de papa;Cerdo Costillita Orientales  con Papas asadas y Ensalada de papa
+447;2025-08-24;Cerdo;Costillita Orientales; con Papas asadas y Ensalada de repollo con zanahoria;Cerdo Costillita Orientales  con Papas asadas y Ensalada de repollo con zanahoria
+448;2025-08-24;Cerdo;Costillita Orientales; con Papas asadas y Tajadas;Cerdo Costillita Orientales  con Papas asadas y Tajadas
+449;2025-08-24;Cerdo;Costillita Orientales; con Papas asadas;Cerdo Costillita Orientales  con Papas asadas
+450;2025-08-24;Cerdo;Costillita Orientales; con Patacones y Ensalada de papa;Cerdo Costillita Orientales  con Patacones y Ensalada de papa
+451;2025-08-24;Cerdo;Costillita Orientales; con Patacones y Ensalada de repollo con zanahoria;Cerdo Costillita Orientales  con Patacones y Ensalada de repollo con zanahoria
+452;2025-08-24;Cerdo;Costillita Orientales; con Patacones y Tajadas;Cerdo Costillita Orientales  con Patacones y Tajadas
+453;2025-08-24;Cerdo;Costillita Orientales; con Patacones;Cerdo Costillita Orientales  con Patacones
+454;2025-08-24;Cerdo;Chuletas Frita; con Arroz blanco y Ensalada de papa;Cerdo Chuletas Frita  con Arroz blanco y Ensalada de papa
+455;2025-08-24;Cerdo;Chuletas Frita; con Arroz blanco y Ensalada de repollo con zanahoria;Cerdo Chuletas Frita  con Arroz blanco y Ensalada de repollo con zanahoria
+456;2025-08-24;Cerdo;Chuletas Frita; con Arroz blanco y Tajadas;Cerdo Chuletas Frita  con Arroz blanco y Tajadas
+457;2025-08-24;Cerdo;Chuletas Frita; con Arroz blanco;Cerdo Chuletas Frita  con Arroz blanco
+458;2025-08-24;Cerdo;Chuletas Frita; con Arroz con maíz y Ensalada de papa;Cerdo Chuletas Frita  con Arroz con maíz y Ensalada de papa
+459;2025-08-24;Cerdo;Chuletas Frita; con Arroz con maíz y Ensalada de repollo con zanahoria;Cerdo Chuletas Frita  con Arroz con maíz y Ensalada de repollo con zanahoria
+460;2025-08-24;Cerdo;Chuletas Frita; con Arroz con maíz y Tajadas;Cerdo Chuletas Frita  con Arroz con maíz y Tajadas
+461;2025-08-24;Cerdo;Chuletas Frita; con Arroz con maíz;Cerdo Chuletas Frita  con Arroz con maíz
+462;2025-08-24;Cerdo;Chuletas Frita; con Arroz con guandú y Ensalada de papa;Cerdo Chuletas Frita  con Arroz con guandú y Ensalada de papa
+463;2025-08-24;Cerdo;Chuletas Frita; con Arroz con guandú y Ensalada de repollo con zanahoria;Cerdo Chuletas Frita  con Arroz con guandú y Ensalada de repollo con zanahoria
+464;2025-08-24;Cerdo;Chuletas Frita; con Arroz con guandú y Tajadas;Cerdo Chuletas Frita  con Arroz con guandú y Tajadas
+465;2025-08-24;Cerdo;Chuletas Frita; con Arroz con guandú;Cerdo Chuletas Frita  con Arroz con guandú
+466;2025-08-24;Cerdo;Chuletas Frita; con Arroz con lentejas y Ensalada de papa;Cerdo Chuletas Frita  con Arroz con lentejas y Ensalada de papa
+467;2025-08-24;Cerdo;Chuletas Frita; con Arroz con lentejas y Ensalada de repollo con zanahoria;Cerdo Chuletas Frita  con Arroz con lentejas y Ensalada de repollo con zanahoria
+468;2025-08-24;Cerdo;Chuletas Frita; con Arroz con lentejas y Tajadas;Cerdo Chuletas Frita  con Arroz con lentejas y Tajadas
+469;2025-08-24;Cerdo;Chuletas Frita; con Arroz con lentejas;Cerdo Chuletas Frita  con Arroz con lentejas
+470;2025-08-24;Cerdo;Chuletas Frita; con Arroz verde y Ensalada de papa;Cerdo Chuletas Frita  con Arroz verde y Ensalada de papa
+471;2025-08-24;Cerdo;Chuletas Frita; con Arroz verde y Ensalada de repollo con zanahoria;Cerdo Chuletas Frita  con Arroz verde y Ensalada de repollo con zanahoria
+472;2025-08-24;Cerdo;Chuletas Frita; con Arroz verde y Tajadas;Cerdo Chuletas Frita  con Arroz verde y Tajadas
+473;2025-08-24;Cerdo;Chuletas Frita; con Arroz verde;Cerdo Chuletas Frita  con Arroz verde
+474;2025-08-24;Cerdo;Chuletas Frita; con Puré de papas y Ensalada de papa;Cerdo Chuletas Frita  con Puré de papas y Ensalada de papa
+475;2025-08-24;Cerdo;Chuletas Frita; con Puré de papas y Tajadas;Cerdo Chuletas Frita  con Puré de papas y Tajadas
+476;2025-08-24;Cerdo;Chuletas Frita; con Puré de papas;Cerdo Chuletas Frita  con Puré de papas
+477;2025-08-24;Cerdo;Chuletas Frita; con Papas fritas y Ensalada de papa;Cerdo Chuletas Frita  con Papas fritas y Ensalada de papa
+478;2025-08-24;Cerdo;Chuletas Frita; con Papas fritas y Ensalada de repollo con zanahoria;Cerdo Chuletas Frita  con Papas fritas y Ensalada de repollo con zanahoria
+479;2025-08-24;Cerdo;Chuletas Frita; con Papas fritas y Tajadas;Cerdo Chuletas Frita  con Papas fritas y Tajadas
+480;2025-08-24;Cerdo;Chuletas Frita; con Papas fritas;Cerdo Chuletas Frita  con Papas fritas
+481;2025-08-24;Cerdo;Chuletas Frita; con Papas asadas y Ensalada de papa;Cerdo Chuletas Frita  con Papas asadas y Ensalada de papa
+482;2025-08-24;Cerdo;Chuletas Frita; con Papas asadas y Ensalada de repollo con zanahoria;Cerdo Chuletas Frita  con Papas asadas y Ensalada de repollo con zanahoria
+483;2025-08-24;Cerdo;Chuletas Frita; con Papas asadas y Tajadas;Cerdo Chuletas Frita  con Papas asadas y Tajadas
+484;2025-08-24;Cerdo;Chuletas Frita; con Papas asadas;Cerdo Chuletas Frita  con Papas asadas
+485;2025-08-24;Cerdo;Chuletas Frita; con Patacones y Ensalada de papa;Cerdo Chuletas Frita  con Patacones y Ensalada de papa
+486;2025-08-24;Cerdo;Chuletas Frita; con Patacones y Ensalada de repollo con zanahoria;Cerdo Chuletas Frita  con Patacones y Ensalada de repollo con zanahoria
+487;2025-08-24;Cerdo;Chuletas Frita; con Patacones y Tajadas;Cerdo Chuletas Frita  con Patacones y Tajadas
+488;2025-08-24;Cerdo;Chuletas Frita; con Patacones;Cerdo Chuletas Frita  con Patacones
+489;2025-08-24;Carne de Res;Bistec Picado; con Arroz blanco y Ensalada de papa;Carne de Res Bistec Picado  con Arroz blanco y Ensalada de papa
+490;2025-08-24;Carne de Res;Bistec Picado; con Arroz blanco y Ensalada de repollo con zanahoria;Carne de Res Bistec Picado  con Arroz blanco y Ensalada de repollo con zanahoria
+491;2025-08-24;Carne de Res;Bistec Picado; con Arroz blanco y Tajadas;Carne de Res Bistec Picado  con Arroz blanco y Tajadas
+492;2025-08-24;Carne de Res;Bistec Picado; con Arroz blanco;Carne de Res Bistec Picado  con Arroz blanco
+493;2025-08-24;Carne de Res;Bistec Picado; con Arroz con maíz y Ensalada de papa;Carne de Res Bistec Picado  con Arroz con maíz y Ensalada de papa
+494;2025-08-24;Carne de Res;Bistec Picado; con Arroz con maíz y Ensalada de repollo con zanahoria;Carne de Res Bistec Picado  con Arroz con maíz y Ensalada de repollo con zanahoria
+495;2025-08-24;Carne de Res;Bistec Picado; con Arroz con maíz y Tajadas;Carne de Res Bistec Picado  con Arroz con maíz y Tajadas
+496;2025-08-24;Carne de Res;Bistec Picado; con Arroz con maíz;Carne de Res Bistec Picado  con Arroz con maíz
+497;2025-08-24;Carne de Res;Bistec Picado; con Arroz con guandú y Ensalada de papa;Carne de Res Bistec Picado  con Arroz con guandú y Ensalada de papa
+498;2025-08-24;Carne de Res;Bistec Picado; con Arroz con guandú y Ensalada de repollo con zanahoria;Carne de Res Bistec Picado  con Arroz con guandú y Ensalada de repollo con zanahoria
+499;2025-08-24;Carne de Res;Bistec Picado; con Arroz con guandú y Tajadas;Carne de Res Bistec Picado  con Arroz con guandú y Tajadas
+500;2025-08-24;Carne de Res;Bistec Picado; con Arroz con guandú;Carne de Res Bistec Picado  con Arroz con guandú
+501;2025-08-24;Carne de Res;Bistec Picado; con Arroz con lentejas y Ensalada de papa;Carne de Res Bistec Picado  con Arroz con lentejas y Ensalada de papa
+502;2025-08-24;Carne de Res;Bistec Picado; con Arroz con lentejas y Ensalada de repollo con zanahoria;Carne de Res Bistec Picado  con Arroz con lentejas y Ensalada de repollo con zanahoria
+503;2025-08-24;Carne de Res;Bistec Picado; con Arroz con lentejas y Tajadas;Carne de Res Bistec Picado  con Arroz con lentejas y Tajadas
+504;2025-08-24;Carne de Res;Bistec Picado; con Arroz con lentejas;Carne de Res Bistec Picado  con Arroz con lentejas
+505;2025-08-24;Carne de Res;Bistec Picado; con Arroz verde y Ensalada de papa;Carne de Res Bistec Picado  con Arroz verde y Ensalada de papa
+506;2025-08-24;Carne de Res;Bistec Picado; con Arroz verde y Ensalada de repollo con zanahoria;Carne de Res Bistec Picado  con Arroz verde y Ensalada de repollo con zanahoria
+507;2025-08-24;Carne de Res;Bistec Picado; con Arroz verde y Tajadas;Carne de Res Bistec Picado  con Arroz verde y Tajadas
+508;2025-08-24;Carne de Res;Bistec Picado; con Arroz verde;Carne de Res Bistec Picado  con Arroz verde
+509;2025-08-24;Carne de Res;Bistec Picado; con Puré de papas y Ensalada de papa;Carne de Res Bistec Picado  con Puré de papas y Ensalada de papa
+510;2025-08-24;Carne de Res;Bistec Picado; con Puré de papas y Tajadas;Carne de Res Bistec Picado  con Puré de papas y Tajadas
+511;2025-08-24;Carne de Res;Bistec Picado; con Puré de papas;Carne de Res Bistec Picado  con Puré de papas
+512;2025-08-24;Carne de Res;Bistec Picado; con Papas fritas y Ensalada de papa;Carne de Res Bistec Picado  con Papas fritas y Ensalada de papa
+513;2025-08-24;Carne de Res;Bistec Picado; con Papas fritas y Ensalada de repollo con zanahoria;Carne de Res Bistec Picado  con Papas fritas y Ensalada de repollo con zanahoria
+514;2025-08-24;Carne de Res;Bistec Picado; con Papas fritas y Tajadas;Carne de Res Bistec Picado  con Papas fritas y Tajadas
+515;2025-08-24;Carne de Res;Bistec Picado; con Papas fritas;Carne de Res Bistec Picado  con Papas fritas
+516;2025-08-24;Carne de Res;Bistec Picado; con Papas asadas y Ensalada de papa;Carne de Res Bistec Picado  con Papas asadas y Ensalada de papa
+517;2025-08-24;Carne de Res;Bistec Picado; con Papas asadas y Ensalada de repollo con zanahoria;Carne de Res Bistec Picado  con Papas asadas y Ensalada de repollo con zanahoria
+518;2025-08-24;Carne de Res;Bistec Picado; con Papas asadas y Tajadas;Carne de Res Bistec Picado  con Papas asadas y Tajadas
+519;2025-08-24;Carne de Res;Bistec Picado; con Papas asadas;Carne de Res Bistec Picado  con Papas asadas
+520;2025-08-24;Carne de Res;Bistec Picado; con Patacones y Ensalada de papa;Carne de Res Bistec Picado  con Patacones y Ensalada de papa
+521;2025-08-24;Carne de Res;Bistec Picado; con Patacones y Ensalada de repollo con zanahoria;Carne de Res Bistec Picado  con Patacones y Ensalada de repollo con zanahoria
+522;2025-08-24;Carne de Res;Bistec Picado; con Patacones y Tajadas;Carne de Res Bistec Picado  con Patacones y Tajadas
+523;2025-08-24;Carne de Res;Bistec Picado; con Patacones;Carne de Res Bistec Picado  con Patacones
+524;2025-08-24;Carne de Res;Filete de Res; con Arroz blanco y Ensalada de papa;Carne de Res Filete de Res  con Arroz blanco y Ensalada de papa
+525;2025-08-24;Carne de Res;Filete de Res; con Arroz blanco y Ensalada de repollo con zanahoria;Carne de Res Filete de Res  con Arroz blanco y Ensalada de repollo con zanahoria
+526;2025-08-24;Carne de Res;Filete de Res; con Arroz blanco y Tajadas;Carne de Res Filete de Res  con Arroz blanco y Tajadas
+527;2025-08-24;Carne de Res;Filete de Res; con Arroz blanco;Carne de Res Filete de Res  con Arroz blanco
+528;2025-08-24;Carne de Res;Filete de Res; con Arroz con maíz y Ensalada de papa;Carne de Res Filete de Res  con Arroz con maíz y Ensalada de papa
+529;2025-08-24;Carne de Res;Filete de Res; con Arroz con maíz y Ensalada de repollo con zanahoria;Carne de Res Filete de Res  con Arroz con maíz y Ensalada de repollo con zanahoria
+530;2025-08-24;Carne de Res;Filete de Res; con Arroz con maíz y Tajadas;Carne de Res Filete de Res  con Arroz con maíz y Tajadas
+531;2025-08-24;Carne de Res;Filete de Res; con Arroz con maíz;Carne de Res Filete de Res  con Arroz con maíz
+532;2025-08-24;Carne de Res;Filete de Res; con Arroz con guandú y Ensalada de papa;Carne de Res Filete de Res  con Arroz con guandú y Ensalada de papa
+533;2025-08-24;Carne de Res;Filete de Res; con Arroz con guandú y Ensalada de repollo con zanahoria;Carne de Res Filete de Res  con Arroz con guandú y Ensalada de repollo con zanahoria
+534;2025-08-24;Carne de Res;Filete de Res; con Arroz con guandú y Tajadas;Carne de Res Filete de Res  con Arroz con guandú y Tajadas
+535;2025-08-24;Carne de Res;Filete de Res; con Arroz con guandú;Carne de Res Filete de Res  con Arroz con guandú
+536;2025-08-24;Carne de Res;Filete de Res; con Arroz con lentejas y Ensalada de papa;Carne de Res Filete de Res  con Arroz con lentejas y Ensalada de papa
+537;2025-08-24;Carne de Res;Filete de Res; con Arroz con lentejas y Ensalada de repollo con zanahoria;Carne de Res Filete de Res  con Arroz con lentejas y Ensalada de repollo con zanahoria
+538;2025-08-24;Carne de Res;Filete de Res; con Arroz con lentejas y Tajadas;Carne de Res Filete de Res  con Arroz con lentejas y Tajadas
+539;2025-08-24;Carne de Res;Filete de Res; con Arroz con lentejas;Carne de Res Filete de Res  con Arroz con lentejas
+540;2025-08-24;Carne de Res;Filete de Res; con Arroz verde y Ensalada de papa;Carne de Res Filete de Res  con Arroz verde y Ensalada de papa
+541;2025-08-24;Carne de Res;Filete de Res; con Arroz verde y Ensalada de repollo con zanahoria;Carne de Res Filete de Res  con Arroz verde y Ensalada de repollo con zanahoria
+542;2025-08-24;Carne de Res;Filete de Res; con Arroz verde y Tajadas;Carne de Res Filete de Res  con Arroz verde y Tajadas
+543;2025-08-24;Carne de Res;Filete de Res; con Arroz verde;Carne de Res Filete de Res  con Arroz verde
+544;2025-08-24;Carne de Res;Filete de Res; con Puré de papas y Ensalada de papa;Carne de Res Filete de Res  con Puré de papas y Ensalada de papa
+545;2025-08-24;Carne de Res;Filete de Res; con Puré de papas y Tajadas;Carne de Res Filete de Res  con Puré de papas y Tajadas
+546;2025-08-24;Carne de Res;Filete de Res; con Puré de papas;Carne de Res Filete de Res  con Puré de papas
+547;2025-08-24;Carne de Res;Filete de Res; con Papas fritas y Ensalada de papa;Carne de Res Filete de Res  con Papas fritas y Ensalada de papa
+548;2025-08-24;Carne de Res;Filete de Res; con Papas fritas y Ensalada de repollo con zanahoria;Carne de Res Filete de Res  con Papas fritas y Ensalada de repollo con zanahoria
+549;2025-08-24;Carne de Res;Filete de Res; con Papas fritas y Tajadas;Carne de Res Filete de Res  con Papas fritas y Tajadas
+550;2025-08-24;Carne de Res;Filete de Res; con Papas fritas;Carne de Res Filete de Res  con Papas fritas
+551;2025-08-24;Carne de Res;Filete de Res; con Papas asadas y Ensalada de papa;Carne de Res Filete de Res  con Papas asadas y Ensalada de papa
+552;2025-08-24;Carne de Res;Filete de Res; con Papas asadas y Ensalada de repollo con zanahoria;Carne de Res Filete de Res  con Papas asadas y Ensalada de repollo con zanahoria
+553;2025-08-24;Carne de Res;Filete de Res; con Papas asadas y Tajadas;Carne de Res Filete de Res  con Papas asadas y Tajadas
+554;2025-08-24;Carne de Res;Filete de Res; con Papas asadas;Carne de Res Filete de Res  con Papas asadas
+555;2025-08-24;Carne de Res;Filete de Res; con Patacones y Ensalada de papa;Carne de Res Filete de Res  con Patacones y Ensalada de papa
+556;2025-08-24;Carne de Res;Filete de Res; con Patacones y Ensalada de repollo con zanahoria;Carne de Res Filete de Res  con Patacones y Ensalada de repollo con zanahoria
+557;2025-08-24;Carne de Res;Filete de Res; con Patacones y Tajadas;Carne de Res Filete de Res  con Patacones y Tajadas
+558;2025-08-24;Carne de Res;Filete de Res; con Patacones;Carne de Res Filete de Res  con Patacones
+559;2025-08-24;Carne de Res;Estofado; con Arroz blanco y Ensalada de papa;Carne de Res Estofado  con Arroz blanco y Ensalada de papa
+560;2025-08-24;Carne de Res;Estofado; con Arroz blanco y Ensalada de repollo con zanahoria;Carne de Res Estofado  con Arroz blanco y Ensalada de repollo con zanahoria
+561;2025-08-24;Carne de Res;Estofado; con Arroz blanco y Tajadas;Carne de Res Estofado  con Arroz blanco y Tajadas
+562;2025-08-24;Carne de Res;Estofado; con Arroz blanco;Carne de Res Estofado  con Arroz blanco
+563;2025-08-24;Carne de Res;Estofado; con Arroz con maíz y Ensalada de papa;Carne de Res Estofado  con Arroz con maíz y Ensalada de papa
+564;2025-08-24;Carne de Res;Estofado; con Arroz con maíz y Ensalada de repollo con zanahoria;Carne de Res Estofado  con Arroz con maíz y Ensalada de repollo con zanahoria
+565;2025-08-24;Carne de Res;Estofado; con Arroz con maíz y Tajadas;Carne de Res Estofado  con Arroz con maíz y Tajadas
+566;2025-08-24;Carne de Res;Estofado; con Arroz con maíz;Carne de Res Estofado  con Arroz con maíz
+567;2025-08-24;Carne de Res;Estofado; con Arroz con guandú y Ensalada de papa;Carne de Res Estofado  con Arroz con guandú y Ensalada de papa
+568;2025-08-24;Carne de Res;Estofado; con Arroz con guandú y Ensalada de repollo con zanahoria;Carne de Res Estofado  con Arroz con guandú y Ensalada de repollo con zanahoria
+569;2025-08-24;Carne de Res;Estofado; con Arroz con guandú y Tajadas;Carne de Res Estofado  con Arroz con guandú y Tajadas
+570;2025-08-24;Carne de Res;Estofado; con Arroz con guandú;Carne de Res Estofado  con Arroz con guandú
+571;2025-08-24;Carne de Res;Estofado; con Arroz con lentejas y Ensalada de papa;Carne de Res Estofado  con Arroz con lentejas y Ensalada de papa
+572;2025-08-24;Carne de Res;Estofado; con Arroz con lentejas y Ensalada de repollo con zanahoria;Carne de Res Estofado  con Arroz con lentejas y Ensalada de repollo con zanahoria
+573;2025-08-24;Carne de Res;Estofado; con Arroz con lentejas y Tajadas;Carne de Res Estofado  con Arroz con lentejas y Tajadas
+574;2025-08-24;Carne de Res;Estofado; con Arroz con lentejas;Carne de Res Estofado  con Arroz con lentejas
+575;2025-08-24;Carne de Res;Estofado; con Arroz verde y Ensalada de papa;Carne de Res Estofado  con Arroz verde y Ensalada de papa
+576;2025-08-24;Carne de Res;Estofado; con Arroz verde y Ensalada de repollo con zanahoria;Carne de Res Estofado  con Arroz verde y Ensalada de repollo con zanahoria
+577;2025-08-24;Carne de Res;Estofado; con Arroz verde y Tajadas;Carne de Res Estofado  con Arroz verde y Tajadas
+578;2025-08-24;Carne de Res;Estofado; con Arroz verde;Carne de Res Estofado  con Arroz verde
+579;2025-08-24;Carne de Res;Estofado; con Puré de papas y Ensalada de papa;Carne de Res Estofado  con Puré de papas y Ensalada de papa
+580;2025-08-24;Carne de Res;Estofado; con Puré de papas y Tajadas;Carne de Res Estofado  con Puré de papas y Tajadas
+581;2025-08-24;Carne de Res;Estofado; con Puré de papas;Carne de Res Estofado  con Puré de papas
+582;2025-08-24;Carne de Res;Estofado; con Papas fritas y Ensalada de papa;Carne de Res Estofado  con Papas fritas y Ensalada de papa
+583;2025-08-24;Carne de Res;Estofado; con Papas fritas y Ensalada de repollo con zanahoria;Carne de Res Estofado  con Papas fritas y Ensalada de repollo con zanahoria
+584;2025-08-24;Carne de Res;Estofado; con Papas fritas y Tajadas;Carne de Res Estofado  con Papas fritas y Tajadas
+585;2025-08-24;Carne de Res;Estofado; con Papas fritas;Carne de Res Estofado  con Papas fritas
+586;2025-08-24;Carne de Res;Estofado; con Papas asadas y Ensalada de papa;Carne de Res Estofado  con Papas asadas y Ensalada de papa
+587;2025-08-24;Carne de Res;Estofado; con Papas asadas y Ensalada de repollo con zanahoria;Carne de Res Estofado  con Papas asadas y Ensalada de repollo con zanahoria
+588;2025-08-24;Carne de Res;Estofado; con Papas asadas y Tajadas;Carne de Res Estofado  con Papas asadas y Tajadas
+589;2025-08-24;Carne de Res;Estofado; con Papas asadas;Carne de Res Estofado  con Papas asadas
+590;2025-08-24;Carne de Res;Estofado; con Patacones y Ensalada de papa;Carne de Res Estofado  con Patacones y Ensalada de papa
+591;2025-08-24;Carne de Res;Estofado; con Patacones y Ensalada de repollo con zanahoria;Carne de Res Estofado  con Patacones y Ensalada de repollo con zanahoria
+592;2025-08-24;Carne de Res;Estofado; con Patacones y Tajadas;Carne de Res Estofado  con Patacones y Tajadas
+593;2025-08-24;Carne de Res;Estofado; con Patacones;Carne de Res Estofado  con Patacones
+594;2025-08-24;Carne de Res;Ropa Vieja; con Arroz blanco y Ensalada de papa;Carne de Res Ropa Vieja  con Arroz blanco y Ensalada de papa
+595;2025-08-24;Carne de Res;Ropa Vieja; con Arroz blanco y Ensalada de repollo con zanahoria;Carne de Res Ropa Vieja  con Arroz blanco y Ensalada de repollo con zanahoria
+596;2025-08-24;Carne de Res;Ropa Vieja; con Arroz blanco y Tajadas;Carne de Res Ropa Vieja  con Arroz blanco y Tajadas
+597;2025-08-24;Carne de Res;Ropa Vieja; con Arroz blanco y Pico de gallo;Carne de Res Ropa Vieja  con Arroz blanco y Pico de gallo
+598;2025-08-24;Carne de Res;Ropa Vieja; con Arroz blanco;Carne de Res Ropa Vieja  con Arroz blanco
+599;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con maíz y Ensalada de papa;Carne de Res Ropa Vieja  con Arroz con maíz y Ensalada de papa
+600;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con maíz y Ensalada de repollo con zanahoria;Carne de Res Ropa Vieja  con Arroz con maíz y Ensalada de repollo con zanahoria
+601;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con maíz y Tajadas;Carne de Res Ropa Vieja  con Arroz con maíz y Tajadas
+602;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con maíz y Pico de gallo;Carne de Res Ropa Vieja  con Arroz con maíz y Pico de gallo
+603;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con maíz;Carne de Res Ropa Vieja  con Arroz con maíz
+604;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con guandú y Ensalada de papa;Carne de Res Ropa Vieja  con Arroz con guandú y Ensalada de papa
+605;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con guandú y Ensalada de repollo con zanahoria;Carne de Res Ropa Vieja  con Arroz con guandú y Ensalada de repollo con zanahoria
+606;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con guandú y Tajadas;Carne de Res Ropa Vieja  con Arroz con guandú y Tajadas
+607;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con guandú y Pico de gallo;Carne de Res Ropa Vieja  con Arroz con guandú y Pico de gallo
+608;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con guandú;Carne de Res Ropa Vieja  con Arroz con guandú
+609;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con lentejas y Ensalada de papa;Carne de Res Ropa Vieja  con Arroz con lentejas y Ensalada de papa
+610;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con lentejas y Ensalada de repollo con zanahoria;Carne de Res Ropa Vieja  con Arroz con lentejas y Ensalada de repollo con zanahoria
+611;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con lentejas y Tajadas;Carne de Res Ropa Vieja  con Arroz con lentejas y Tajadas
+612;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con lentejas y Pico de gallo;Carne de Res Ropa Vieja  con Arroz con lentejas y Pico de gallo
+613;2025-08-24;Carne de Res;Ropa Vieja; con Arroz con lentejas;Carne de Res Ropa Vieja  con Arroz con lentejas
+614;2025-08-24;Carne de Res;Ropa Vieja; con Arroz verde y Ensalada de papa;Carne de Res Ropa Vieja  con Arroz verde y Ensalada de papa
+615;2025-08-24;Carne de Res;Ropa Vieja; con Arroz verde y Ensalada de repollo con zanahoria;Carne de Res Ropa Vieja  con Arroz verde y Ensalada de repollo con zanahoria
+616;2025-08-24;Carne de Res;Ropa Vieja; con Arroz verde y Tajadas;Carne de Res Ropa Vieja  con Arroz verde y Tajadas
+617;2025-08-24;Carne de Res;Ropa Vieja; con Arroz verde y Pico de gallo;Carne de Res Ropa Vieja  con Arroz verde y Pico de gallo
+618;2025-08-24;Carne de Res;Ropa Vieja; con Arroz verde;Carne de Res Ropa Vieja  con Arroz verde
+619;2025-08-24;Carne de Res;Ropa Vieja; con Puré de papas y Ensalada de papa;Carne de Res Ropa Vieja  con Puré de papas y Ensalada de papa
+620;2025-08-24;Carne de Res;Ropa Vieja; con Puré de papas y Tajadas;Carne de Res Ropa Vieja  con Puré de papas y Tajadas
+621;2025-08-24;Carne de Res;Ropa Vieja; con Puré de papas y Pico de gallo;Carne de Res Ropa Vieja  con Puré de papas y Pico de gallo
+622;2025-08-24;Carne de Res;Ropa Vieja; con Puré de papas;Carne de Res Ropa Vieja  con Puré de papas
+623;2025-08-24;Carne de Res;Ropa Vieja; con Papas fritas y Ensalada de papa;Carne de Res Ropa Vieja  con Papas fritas y Ensalada de papa
+624;2025-08-24;Carne de Res;Ropa Vieja; con Papas fritas y Ensalada de repollo con zanahoria;Carne de Res Ropa Vieja  con Papas fritas y Ensalada de repollo con zanahoria
+625;2025-08-24;Carne de Res;Ropa Vieja; con Papas fritas y Tajadas;Carne de Res Ropa Vieja  con Papas fritas y Tajadas
+626;2025-08-24;Carne de Res;Ropa Vieja; con Papas fritas y Pico de gallo;Carne de Res Ropa Vieja  con Papas fritas y Pico de gallo
+627;2025-08-24;Carne de Res;Ropa Vieja; con Papas fritas;Carne de Res Ropa Vieja  con Papas fritas
+628;2025-08-24;Carne de Res;Ropa Vieja; con Papas asadas y Ensalada de papa;Carne de Res Ropa Vieja  con Papas asadas y Ensalada de papa
+629;2025-08-24;Carne de Res;Ropa Vieja; con Papas asadas y Ensalada de repollo con zanahoria;Carne de Res Ropa Vieja  con Papas asadas y Ensalada de repollo con zanahoria
+630;2025-08-24;Carne de Res;Ropa Vieja; con Papas asadas y Tajadas;Carne de Res Ropa Vieja  con Papas asadas y Tajadas
+631;2025-08-24;Carne de Res;Ropa Vieja; con Papas asadas y Pico de gallo;Carne de Res Ropa Vieja  con Papas asadas y Pico de gallo
+632;2025-08-24;Carne de Res;Ropa Vieja; con Papas asadas;Carne de Res Ropa Vieja  con Papas asadas
+633;2025-08-24;Carne de Res;Ropa Vieja; con Patacones y Ensalada de papa;Carne de Res Ropa Vieja  con Patacones y Ensalada de papa
+634;2025-08-24;Carne de Res;Ropa Vieja; con Patacones y Ensalada de repollo con zanahoria;Carne de Res Ropa Vieja  con Patacones y Ensalada de repollo con zanahoria
+635;2025-08-24;Carne de Res;Ropa Vieja; con Patacones y Tajadas;Carne de Res Ropa Vieja  con Patacones y Tajadas
+636;2025-08-24;Carne de Res;Ropa Vieja; con Patacones y Pico de gallo;Carne de Res Ropa Vieja  con Patacones y Pico de gallo
+637;2025-08-24;Carne de Res;Ropa Vieja; con Patacones;Carne de Res Ropa Vieja  con Patacones
+638;2025-08-24;Carne de Res;Ropa Vieja; con Pasta en salsa blanca;Carne de Res Ropa Vieja  con Pasta en salsa blanca
+639;2025-08-24;Carne de Res;Mongolian; con Arroz blanco y Ensalada de papa;Carne de Res Mongolian  con Arroz blanco y Ensalada de papa
+640;2025-08-24;Carne de Res;Mongolian; con Arroz blanco y Ensalada de repollo con zanahoria;Carne de Res Mongolian  con Arroz blanco y Ensalada de repollo con zanahoria
+641;2025-08-24;Carne de Res;Mongolian; con Arroz blanco y Tajadas;Carne de Res Mongolian  con Arroz blanco y Tajadas
+642;2025-08-24;Carne de Res;Mongolian; con Arroz blanco;Carne de Res Mongolian  con Arroz blanco
+643;2025-08-24;Carne de Res;Mongolian; con Arroz con maíz y Ensalada de papa;Carne de Res Mongolian  con Arroz con maíz y Ensalada de papa
+644;2025-08-24;Carne de Res;Mongolian; con Arroz con maíz y Ensalada de repollo con zanahoria;Carne de Res Mongolian  con Arroz con maíz y Ensalada de repollo con zanahoria
+645;2025-08-24;Carne de Res;Mongolian; con Arroz con maíz y Tajadas;Carne de Res Mongolian  con Arroz con maíz y Tajadas
+646;2025-08-24;Carne de Res;Mongolian; con Arroz con maíz;Carne de Res Mongolian  con Arroz con maíz
+647;2025-08-24;Carne de Res;Mongolian; con Arroz con guandú y Ensalada de papa;Carne de Res Mongolian  con Arroz con guandú y Ensalada de papa
+648;2025-08-24;Carne de Res;Mongolian; con Arroz con guandú y Ensalada de repollo con zanahoria;Carne de Res Mongolian  con Arroz con guandú y Ensalada de repollo con zanahoria
+649;2025-08-24;Carne de Res;Mongolian; con Arroz con guandú y Tajadas;Carne de Res Mongolian  con Arroz con guandú y Tajadas
+650;2025-08-24;Carne de Res;Mongolian; con Arroz con guandú;Carne de Res Mongolian  con Arroz con guandú
+651;2025-08-24;Carne de Res;Mongolian; con Arroz con lentejas y Ensalada de papa;Carne de Res Mongolian  con Arroz con lentejas y Ensalada de papa
+652;2025-08-24;Carne de Res;Mongolian; con Arroz con lentejas y Ensalada de repollo con zanahoria;Carne de Res Mongolian  con Arroz con lentejas y Ensalada de repollo con zanahoria
+653;2025-08-24;Carne de Res;Mongolian; con Arroz con lentejas y Tajadas;Carne de Res Mongolian  con Arroz con lentejas y Tajadas
+654;2025-08-24;Carne de Res;Mongolian; con Arroz con lentejas;Carne de Res Mongolian  con Arroz con lentejas
+655;2025-08-24;Carne de Res;Mongolian; con Arroz verde y Ensalada de papa;Carne de Res Mongolian  con Arroz verde y Ensalada de papa
+656;2025-08-24;Carne de Res;Mongolian; con Arroz verde y Ensalada de repollo con zanahoria;Carne de Res Mongolian  con Arroz verde y Ensalada de repollo con zanahoria
+657;2025-08-24;Carne de Res;Mongolian; con Arroz verde y Tajadas;Carne de Res Mongolian  con Arroz verde y Tajadas
+658;2025-08-24;Carne de Res;Mongolian; con Arroz verde;Carne de Res Mongolian  con Arroz verde
+659;2025-08-24;Carne de Res;Mongolian; con Puré de papas y Ensalada de papa;Carne de Res Mongolian  con Puré de papas y Ensalada de papa
+660;2025-08-24;Carne de Res;Mongolian; con Puré de papas y Tajadas;Carne de Res Mongolian  con Puré de papas y Tajadas
+661;2025-08-24;Carne de Res;Mongolian; con Puré de papas;Carne de Res Mongolian  con Puré de papas
+662;2025-08-24;Carne de Res;Mongolian; con Papas fritas y Ensalada de papa;Carne de Res Mongolian  con Papas fritas y Ensalada de papa
+663;2025-08-24;Carne de Res;Mongolian; con Papas fritas y Ensalada de repollo con zanahoria;Carne de Res Mongolian  con Papas fritas y Ensalada de repollo con zanahoria
+664;2025-08-24;Carne de Res;Mongolian; con Papas fritas y Tajadas;Carne de Res Mongolian  con Papas fritas y Tajadas
+665;2025-08-24;Carne de Res;Mongolian; con Papas fritas;Carne de Res Mongolian  con Papas fritas
+666;2025-08-24;Carne de Res;Mongolian; con Papas asadas y Ensalada de papa;Carne de Res Mongolian  con Papas asadas y Ensalada de papa
+667;2025-08-24;Carne de Res;Mongolian; con Papas asadas y Ensalada de repollo con zanahoria;Carne de Res Mongolian  con Papas asadas y Ensalada de repollo con zanahoria
+668;2025-08-24;Carne de Res;Mongolian; con Papas asadas y Tajadas;Carne de Res Mongolian  con Papas asadas y Tajadas
+669;2025-08-24;Carne de Res;Mongolian; con Papas asadas;Carne de Res Mongolian  con Papas asadas
+670;2025-08-24;Carne de Res;Mongolian; con Patacones y Ensalada de papa;Carne de Res Mongolian  con Patacones y Ensalada de papa
+671;2025-08-24;Carne de Res;Mongolian; con Patacones y Ensalada de repollo con zanahoria;Carne de Res Mongolian  con Patacones y Ensalada de repollo con zanahoria
+672;2025-08-24;Carne de Res;Mongolian; con Patacones y Tajadas;Carne de Res Mongolian  con Patacones y Tajadas
+673;2025-08-24;Carne de Res;Mongolian; con Patacones;Carne de Res Mongolian  con Patacones
+674;2025-08-24;Mixto;; con bruscas con Arroz blanco y Ensalada de papa;Mixto   con bruscas con Arroz blanco y Ensalada de papa
+675;2025-08-24;Mixto;; con bruscas con Arroz blanco y Ensalada de repollo con zanahoria;Mixto   con bruscas con Arroz blanco y Ensalada de repollo con zanahoria
+676;2025-08-24;Mixto;; con bruscas con Arroz blanco y Tajadas;Mixto   con bruscas con Arroz blanco y Tajadas
+677;2025-08-24;Mixto;; con bruscas con Arroz blanco;Mixto   con bruscas con Arroz blanco
+678;2025-08-24;Mixto;; con bruscas con Arroz con maíz y Ensalada de papa;Mixto   con bruscas con Arroz con maíz y Ensalada de papa
+679;2025-08-24;Mixto;; con bruscas con Arroz con maíz y Ensalada de repollo con zanahoria;Mixto   con bruscas con Arroz con maíz y Ensalada de repollo con zanahoria
+680;2025-08-24;Mixto;; con bruscas con Arroz con maíz y Tajadas;Mixto   con bruscas con Arroz con maíz y Tajadas
+681;2025-08-24;Mixto;; con bruscas con Arroz con maíz;Mixto   con bruscas con Arroz con maíz
+682;2025-08-24;Mixto;; con bruscas con Arroz con guandú y Ensalada de papa;Mixto   con bruscas con Arroz con guandú y Ensalada de papa
+683;2025-08-24;Mixto;; con bruscas con Arroz con guandú y Ensalada de repollo con zanahoria;Mixto   con bruscas con Arroz con guandú y Ensalada de repollo con zanahoria
+684;2025-08-24;Mixto;; con bruscas con Arroz con guandú y Tajadas;Mixto   con bruscas con Arroz con guandú y Tajadas
+685;2025-08-24;Mixto;; con bruscas con Arroz con guandú;Mixto   con bruscas con Arroz con guandú
+686;2025-08-24;Mixto;; con bruscas con Arroz con lentejas y Ensalada de papa;Mixto   con bruscas con Arroz con lentejas y Ensalada de papa
+687;2025-08-24;Mixto;; con bruscas con Arroz con lentejas y Ensalada de repollo con zanahoria;Mixto   con bruscas con Arroz con lentejas y Ensalada de repollo con zanahoria
+688;2025-08-24;Mixto;; con bruscas con Arroz con lentejas y Tajadas;Mixto   con bruscas con Arroz con lentejas y Tajadas
+689;2025-08-24;Mixto;; con bruscas con Arroz con lentejas;Mixto   con bruscas con Arroz con lentejas
+690;2025-08-24;Mixto;; con bruscas con Arroz verde y Ensalada de papa;Mixto   con bruscas con Arroz verde y Ensalada de papa
+691;2025-08-24;Mixto;; con bruscas con Arroz verde y Ensalada de repollo con zanahoria;Mixto   con bruscas con Arroz verde y Ensalada de repollo con zanahoria
+692;2025-08-24;Mixto;; con bruscas con Arroz verde y Tajadas;Mixto   con bruscas con Arroz verde y Tajadas
+693;2025-08-24;Mixto;; con bruscas con Arroz verde;Mixto   con bruscas con Arroz verde
+694;2025-08-24;Mixto;; con bruscas con Puré de papas y Ensalada de papa;Mixto   con bruscas con Puré de papas y Ensalada de papa
+695;2025-08-24;Mixto;; con bruscas con Puré de papas y Tajadas;Mixto   con bruscas con Puré de papas y Tajadas
+696;2025-08-24;Mixto;; con bruscas con Puré de papas;Mixto   con bruscas con Puré de papas
+697;2025-08-24;Mixto;; con bruscas con Papas fritas y Ensalada de papa;Mixto   con bruscas con Papas fritas y Ensalada de papa
+698;2025-08-24;Mixto;; con bruscas con Papas fritas y Ensalada de repollo con zanahoria;Mixto   con bruscas con Papas fritas y Ensalada de repollo con zanahoria
+699;2025-08-24;Mixto;; con bruscas con Papas fritas y Tajadas;Mixto   con bruscas con Papas fritas y Tajadas
+700;2025-08-24;Mixto;; con bruscas con Papas fritas;Mixto   con bruscas con Papas fritas
+701;2025-08-24;Mixto;; con bruscas con Papas asadas y Ensalada de papa;Mixto   con bruscas con Papas asadas y Ensalada de papa
+702;2025-08-24;Mixto;; con bruscas con Papas asadas y Ensalada de repollo con zanahoria;Mixto   con bruscas con Papas asadas y Ensalada de repollo con zanahoria
+703;2025-08-24;Mixto;; con bruscas con Papas asadas y Tajadas;Mixto   con bruscas con Papas asadas y Tajadas
+704;2025-08-24;Mixto;; con bruscas con Papas asadas;Mixto   con bruscas con Papas asadas
+705;2025-08-24;Mixto;; con bruscas con Patacones y Ensalada de papa;Mixto   con bruscas con Patacones y Ensalada de papa
+706;2025-08-24;Mixto;; con bruscas con Patacones y Ensalada de repollo con zanahoria;Mixto   con bruscas con Patacones y Ensalada de repollo con zanahoria
+707;2025-08-24;Mixto;; con bruscas con Patacones y Tajadas;Mixto   con bruscas con Patacones y Tajadas
+708;2025-08-24;Mixto;; con bruscas con Patacones;Mixto   con bruscas con Patacones
+709;2025-08-24;Carne de Res;Chili con carne; con carne con Arroz blanco y Ensalada de papa;Carne de Res Chili con carne  con carne con Arroz blanco y Ensalada de papa
+710;2025-08-24;Carne de Res;Chili con carne; con carne con Arroz blanco y Ensalada de repollo con zanahoria;Carne de Res Chili con carne  con carne con Arroz blanco y Ensalada de repollo con zanahoria
+711;2025-08-24;Carne de Res;Chili con carne; con carne con Arroz blanco y Tajadas;Carne de Res Chili con carne  con carne con Arroz blanco y Tajadas
+712;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz blanco y Ensalada de papa;Carne de Res Bolitas al Vino  con Arroz blanco y Ensalada de papa
+713;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz blanco y Ensalada de repollo con zanahoria;Carne de Res Bolitas al Vino  con Arroz blanco y Ensalada de repollo con zanahoria
+714;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz blanco y Tajadas;Carne de Res Bolitas al Vino  con Arroz blanco y Tajadas
+715;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz blanco;Carne de Res Bolitas al Vino  con Arroz blanco
+716;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con maíz y Ensalada de papa;Carne de Res Bolitas al Vino  con Arroz con maíz y Ensalada de papa
+717;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con maíz y Ensalada de repollo con zanahoria;Carne de Res Bolitas al Vino  con Arroz con maíz y Ensalada de repollo con zanahoria
+718;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con maíz y Tajadas;Carne de Res Bolitas al Vino  con Arroz con maíz y Tajadas
+719;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con maíz;Carne de Res Bolitas al Vino  con Arroz con maíz
+720;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con guandú y Ensalada de papa;Carne de Res Bolitas al Vino  con Arroz con guandú y Ensalada de papa
+721;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con guandú y Ensalada de repollo con zanahoria;Carne de Res Bolitas al Vino  con Arroz con guandú y Ensalada de repollo con zanahoria
+722;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con guandú y Tajadas;Carne de Res Bolitas al Vino  con Arroz con guandú y Tajadas
+723;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con guandú;Carne de Res Bolitas al Vino  con Arroz con guandú
+724;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con lentejas y Ensalada de papa;Carne de Res Bolitas al Vino  con Arroz con lentejas y Ensalada de papa
+725;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con lentejas y Ensalada de repollo con zanahoria;Carne de Res Bolitas al Vino  con Arroz con lentejas y Ensalada de repollo con zanahoria
+726;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con lentejas y Tajadas;Carne de Res Bolitas al Vino  con Arroz con lentejas y Tajadas
+727;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz con lentejas;Carne de Res Bolitas al Vino  con Arroz con lentejas
+728;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz verde y Ensalada de papa;Carne de Res Bolitas al Vino  con Arroz verde y Ensalada de papa
+729;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz verde y Ensalada de repollo con zanahoria;Carne de Res Bolitas al Vino  con Arroz verde y Ensalada de repollo con zanahoria
+730;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz verde y Tajadas;Carne de Res Bolitas al Vino  con Arroz verde y Tajadas
+731;2025-08-24;Carne de Res;Bolitas al Vino; con Arroz verde;Carne de Res Bolitas al Vino  con Arroz verde
+732;2025-08-24;Carne de Res;Bolitas al Vino; con Puré de papas y Ensalada de papa;Carne de Res Bolitas al Vino  con Puré de papas y Ensalada de papa
+733;2025-08-24;Carne de Res;Bolitas al Vino; con Puré de papas y Tajadas;Carne de Res Bolitas al Vino  con Puré de papas y Tajadas
+734;2025-08-24;Carne de Res;Bolitas al Vino; con Puré de papas;Carne de Res Bolitas al Vino  con Puré de papas
+735;2025-08-24;Carne de Res;Bolitas al Vino; con Papas fritas y Ensalada de papa;Carne de Res Bolitas al Vino  con Papas fritas y Ensalada de papa
+736;2025-08-24;Carne de Res;Bolitas al Vino; con Papas fritas y Ensalada de repollo con zanahoria;Carne de Res Bolitas al Vino  con Papas fritas y Ensalada de repollo con zanahoria
+737;2025-08-24;Carne de Res;Bolitas al Vino; con Papas fritas y Tajadas;Carne de Res Bolitas al Vino  con Papas fritas y Tajadas
+738;2025-08-24;Carne de Res;Bolitas al Vino; con Papas fritas;Carne de Res Bolitas al Vino  con Papas fritas
+739;2025-08-24;Carne de Res;Bolitas al Vino; con Papas asadas y Ensalada de papa;Carne de Res Bolitas al Vino  con Papas asadas y Ensalada de papa
+740;2025-08-24;Carne de Res;Bolitas al Vino; con Papas asadas y Ensalada de repollo con zanahoria;Carne de Res Bolitas al Vino  con Papas asadas y Ensalada de repollo con zanahoria
+741;2025-08-24;Carne de Res;Bolitas al Vino; con Papas asadas y Tajadas;Carne de Res Bolitas al Vino  con Papas asadas y Tajadas
+742;2025-08-24;Carne de Res;Bolitas al Vino; con Papas asadas;Carne de Res Bolitas al Vino  con Papas asadas
+743;2025-08-24;Carne de Res;Bolitas al Vino; con Patacones y Ensalada de papa;Carne de Res Bolitas al Vino  con Patacones y Ensalada de papa
+744;2025-08-24;Carne de Res;Bolitas al Vino; con Patacones y Ensalada de repollo con zanahoria;Carne de Res Bolitas al Vino  con Patacones y Ensalada de repollo con zanahoria
+745;2025-08-24;Carne de Res;Bolitas al Vino; con Patacones y Tajadas;Carne de Res Bolitas al Vino  con Patacones y Tajadas
+746;2025-08-24;Carne de Res;Bolitas al Vino; con Patacones;Carne de Res Bolitas al Vino  con Patacones
+747;2025-08-24;Carne de Res;Molida ; con Macarrones salsa roja y Ensalada de papa;Carne de Res Molida   con Macarrones salsa roja y Ensalada de papa
+748;2025-08-24;Carne de Res;Molida ; con Macarrones salsa roja y Ensalada de repollo con zanahoria;Carne de Res Molida   con Macarrones salsa roja y Ensalada de repollo con zanahoria
+749;2025-08-24;Carne de Res;Molida ; con Macarrones salsa roja y Tajadas;Carne de Res Molida   con Macarrones salsa roja y Tajadas
+750;2025-08-24;Carne de Res;Molida ; con Macarrones salsa roja y Brochettas de tomate;Carne de Res Molida   con Macarrones salsa roja y Brochettas de tomate
+751;2025-08-24;Carne de Res;Molida ; con Macarrones salsa roja y Pan de ajo;Carne de Res Molida   con Macarrones salsa roja y Pan de ajo
+752;2025-08-24;Carne de Res;Molida ; con Macarrones salsa roja;Carne de Res Molida   con Macarrones salsa roja
+753;2025-08-24;Carne de Res;Molida ; con Pasta en salsa roja y Ensalada de papa;Carne de Res Molida   con Pasta en salsa roja y Ensalada de papa
+754;2025-08-24;Carne de Res;Molida ; con Pasta en salsa roja y Ensalada de repollo con zanahoria;Carne de Res Molida   con Pasta en salsa roja y Ensalada de repollo con zanahoria
+755;2025-08-24;Carne de Res;Molida ; con Pasta en salsa roja y Tajadas;Carne de Res Molida   con Pasta en salsa roja y Tajadas
+756;2025-08-24;Carne de Res;Molida ; con Pasta en salsa roja y Brochettas de tomate;Carne de Res Molida   con Pasta en salsa roja y Brochettas de tomate
+757;2025-08-24;Carne de Res;Molida ; con Pasta en salsa roja y Pan de ajo;Carne de Res Molida   con Pasta en salsa roja y Pan de ajo
+758;2025-08-24;Carne de Res;Molida ; con Pasta en salsa roja;Carne de Res Molida   con Pasta en salsa roja
+759;2025-08-24;Pollo;; con Macarrones salsa roja y Ensalada de papa;Pollo   con Macarrones salsa roja y Ensalada de papa
+760;2025-08-24;Pollo;; con Macarrones salsa roja y Ensalada de repollo con zanahoria;Pollo   con Macarrones salsa roja y Ensalada de repollo con zanahoria
+761;2025-08-24;Pollo;; con Macarrones salsa roja y Tajadas;Pollo   con Macarrones salsa roja y Tajadas
+762;2025-08-24;Pollo;; con Macarrones salsa roja y Brochettas de tomate;Pollo   con Macarrones salsa roja y Brochettas de tomate
+763;2025-08-24;Pollo;; con Macarrones salsa roja y Pan de ajo;Pollo   con Macarrones salsa roja y Pan de ajo
+764;2025-08-24;Pollo;; con Macarrones salsa roja;Pollo   con Macarrones salsa roja
+765;2025-08-24;Pollo;; con Macarrones salsa blanca y Ensalada de papa;Pollo   con Macarrones salsa blanca y Ensalada de papa
+766;2025-08-24;Pollo;; con Macarrones salsa blanca y Ensalada de repollo con zanahoria;Pollo   con Macarrones salsa blanca y Ensalada de repollo con zanahoria
+767;2025-08-24;Pollo;; con Macarrones salsa blanca y Tajadas;Pollo   con Macarrones salsa blanca y Tajadas
+768;2025-08-24;Pollo;; con Macarrones salsa blanca y Brochettas de tomate;Pollo   con Macarrones salsa blanca y Brochettas de tomate
+769;2025-08-24;Pollo;; con Macarrones salsa blanca y Pan de ajo;Pollo   con Macarrones salsa blanca y Pan de ajo
+770;2025-08-24;Pollo;; con Macarrones salsa blanca;Pollo   con Macarrones salsa blanca
+771;2025-08-24;Pollo;; con Pasta en salsa roja y Ensalada de papa;Pollo   con Pasta en salsa roja y Ensalada de papa
+772;2025-08-24;Pollo;; con Pasta en salsa roja y Ensalada de repollo con zanahoria;Pollo   con Pasta en salsa roja y Ensalada de repollo con zanahoria
+773;2025-08-24;Pollo;; con Pasta en salsa roja y Tajadas;Pollo   con Pasta en salsa roja y Tajadas
+774;2025-08-24;Pollo;; con Pasta en salsa roja y Brochettas de tomate;Pollo   con Pasta en salsa roja y Brochettas de tomate
+775;2025-08-24;Pollo;; con Pasta en salsa roja y Pan de ajo;Pollo   con Pasta en salsa roja y Pan de ajo
+776;2025-08-24;Pollo;; con Pasta en salsa roja;Pollo   con Pasta en salsa roja
+777;2025-08-24;Pollo;; con Pasta en salsa blanca y Ensalada de papa;Pollo   con Pasta en salsa blanca y Ensalada de papa
+778;2025-08-24;Pollo;; con Pasta en salsa blanca y Ensalada de repollo con zanahoria;Pollo   con Pasta en salsa blanca y Ensalada de repollo con zanahoria
+779;2025-08-24;Pollo;; con Pasta en salsa blanca y Tajadas;Pollo   con Pasta en salsa blanca y Tajadas
+780;2025-08-24;Pollo;; con Pasta en salsa blanca y Brochettas de tomate;Pollo   con Pasta en salsa blanca y Brochettas de tomate
+781;2025-08-24;Pollo;; con Pasta en salsa blanca y Pan de ajo;Pollo   con Pasta en salsa blanca y Pan de ajo
+782;2025-08-24;Pollo;; con Pasta en salsa blanca;Pollo   con Pasta en salsa blanca
+783;2025-08-24;Cerdo;; con Macarrones salsa roja y Ensalada de papa;Cerdo   con Macarrones salsa roja y Ensalada de papa
+784;2025-08-24;Cerdo;; con Macarrones salsa roja y Ensalada de repollo con zanahoria;Cerdo   con Macarrones salsa roja y Ensalada de repollo con zanahoria
+785;2025-08-24;Cerdo;; con Macarrones salsa roja y Tajadas;Cerdo   con Macarrones salsa roja y Tajadas
+786;2025-08-24;Cerdo;; con Macarrones salsa roja y Brochettas de tomate;Cerdo   con Macarrones salsa roja y Brochettas de tomate
+787;2025-08-24;Cerdo;; con Macarrones salsa roja y Pan de ajo;Cerdo   con Macarrones salsa roja y Pan de ajo
+788;2025-08-24;Cerdo;; con Macarrones salsa roja;Cerdo   con Macarrones salsa roja
+789;2025-08-24;Cerdo;; con Pasta en salsa roja y Ensalada de papa;Cerdo   con Pasta en salsa roja y Ensalada de papa
+790;2025-08-24;Cerdo;; con Pasta en salsa roja y Ensalada de repollo con zanahoria;Cerdo   con Pasta en salsa roja y Ensalada de repollo con zanahoria
+791;2025-08-24;Cerdo;; con Pasta en salsa roja y Tajadas;Cerdo   con Pasta en salsa roja y Tajadas
+792;2025-08-24;Cerdo;; con Pasta en salsa roja y Brochettas de tomate;Cerdo   con Pasta en salsa roja y Brochettas de tomate
+793;2025-08-24;Cerdo;; con Pasta en salsa roja y Pan de ajo;Cerdo   con Pasta en salsa roja y Pan de ajo
+794;2025-08-24;Cerdo;; con Pasta en salsa roja;Cerdo   con Pasta en salsa roja
+795;2025-08-24;Pescado;Frito; con Arroz blanco y Ensalada de papa;Pescado Frito  con Arroz blanco y Ensalada de papa
+796;2025-08-24;Pescado;Frito; con Arroz blanco y Ensalada de repollo con zanahoria;Pescado Frito  con Arroz blanco y Ensalada de repollo con zanahoria
+797;2025-08-24;Pescado;Frito; con Arroz blanco y Tajadas;Pescado Frito  con Arroz blanco y Tajadas
+798;2025-08-24;Pescado;Frito; con Arroz blanco;Pescado Frito  con Arroz blanco
+799;2025-08-24;Pescado;Frito; con Arroz con maíz y Ensalada de papa;Pescado Frito  con Arroz con maíz y Ensalada de papa
+800;2025-08-24;Pescado;Frito; con Arroz con maíz y Ensalada de repollo con zanahoria;Pescado Frito  con Arroz con maíz y Ensalada de repollo con zanahoria
+801;2025-08-24;Pescado;Frito; con Arroz con maíz y Tajadas;Pescado Frito  con Arroz con maíz y Tajadas
+802;2025-08-24;Pescado;Frito; con Arroz con maíz;Pescado Frito  con Arroz con maíz
+803;2025-08-24;Pescado;Frito; con Arroz con guandú y Ensalada de papa;Pescado Frito  con Arroz con guandú y Ensalada de papa
+804;2025-08-24;Pescado;Frito; con Arroz con guandú y Ensalada de repollo con zanahoria;Pescado Frito  con Arroz con guandú y Ensalada de repollo con zanahoria
+805;2025-08-24;Pescado;Frito; con Arroz con guandú y Tajadas;Pescado Frito  con Arroz con guandú y Tajadas
+806;2025-08-24;Pescado;Frito; con Arroz con guandú;Pescado Frito  con Arroz con guandú
+807;2025-08-24;Pescado;Frito; con Arroz con lentejas y Ensalada de papa;Pescado Frito  con Arroz con lentejas y Ensalada de papa
+808;2025-08-24;Pescado;Frito; con Arroz con lentejas y Ensalada de repollo con zanahoria;Pescado Frito  con Arroz con lentejas y Ensalada de repollo con zanahoria
+809;2025-08-24;Pescado;Frito; con Arroz con lentejas y Tajadas;Pescado Frito  con Arroz con lentejas y Tajadas
+810;2025-08-24;Pescado;Frito; con Arroz con lentejas;Pescado Frito  con Arroz con lentejas
+811;2025-08-24;Pescado;Frito; con Arroz verde y Ensalada de papa;Pescado Frito  con Arroz verde y Ensalada de papa
+812;2025-08-24;Pescado;Frito; con Arroz verde y Ensalada de repollo con zanahoria;Pescado Frito  con Arroz verde y Ensalada de repollo con zanahoria
+813;2025-08-24;Pescado;Frito; con Arroz verde y Tajadas;Pescado Frito  con Arroz verde y Tajadas
+814;2025-08-24;Pescado;Frito; con Arroz verde;Pescado Frito  con Arroz verde
+815;2025-08-24;Pescado;Frito; con Puré de papas y Ensalada de papa;Pescado Frito  con Puré de papas y Ensalada de papa
+816;2025-08-24;Pescado;Frito; con Puré de papas y Tajadas;Pescado Frito  con Puré de papas y Tajadas
+817;2025-08-24;Pescado;Frito; con Puré de papas;Pescado Frito  con Puré de papas
+818;2025-08-24;Pescado;Frito; con Papas fritas y Ensalada de papa;Pescado Frito  con Papas fritas y Ensalada de papa
+819;2025-08-24;Pescado;Frito; con Papas fritas y Ensalada de repollo con zanahoria;Pescado Frito  con Papas fritas y Ensalada de repollo con zanahoria
+820;2025-08-24;Pescado;Frito; con Papas fritas y Tajadas;Pescado Frito  con Papas fritas y Tajadas
+821;2025-08-24;Pescado;Frito; con Papas fritas;Pescado Frito  con Papas fritas
+822;2025-08-24;Pescado;Frito; con Papas asadas y Ensalada de papa;Pescado Frito  con Papas asadas y Ensalada de papa
+823;2025-08-24;Pescado;Frito; con Papas asadas y Ensalada de repollo con zanahoria;Pescado Frito  con Papas asadas y Ensalada de repollo con zanahoria
+824;2025-08-24;Pescado;Frito; con Papas asadas y Tajadas;Pescado Frito  con Papas asadas y Tajadas
+825;2025-08-24;Pescado;Frito; con Papas asadas;Pescado Frito  con Papas asadas
+826;2025-08-24;Pescado;Frito; con Patacones y Ensalada de papa;Pescado Frito  con Patacones y Ensalada de papa
+827;2025-08-24;Pescado;Frito; con Patacones y Ensalada de repollo con zanahoria;Pescado Frito  con Patacones y Ensalada de repollo con zanahoria
+828;2025-08-24;Pescado;Frito; con Patacones y Tajadas;Pescado Frito  con Patacones y Tajadas
+829;2025-08-24;Pescado;Frito; con Patacones;Pescado Frito  con Patacones
+830;2025-08-24;Pescado;Frito; con Arroz blanco y Ensalada de papa;Pescado Frito  con Arroz blanco y Ensalada de papa
+831;2025-08-24;Pescado;al Horno; con Arroz blanco y Ensalada de repollo con zanahoria;Pescado al Horno  con Arroz blanco y Ensalada de repollo con zanahoria
+832;2025-08-24;Pescado;al Horno; con Arroz blanco y Tajadas;Pescado al Horno  con Arroz blanco y Tajadas
+833;2025-08-24;Pescado;al Horno; con Arroz blanco;Pescado al Horno  con Arroz blanco
+834;2025-08-24;Pescado;al Horno; con Arroz con maíz y Ensalada de papa;Pescado al Horno  con Arroz con maíz y Ensalada de papa
+835;2025-08-24;Pescado;al Horno; con Arroz con maíz y Ensalada de repollo con zanahoria;Pescado al Horno  con Arroz con maíz y Ensalada de repollo con zanahoria
+836;2025-08-24;Pescado;al Horno; con Arroz con maíz y Tajadas;Pescado al Horno  con Arroz con maíz y Tajadas
+837;2025-08-24;Pescado;al Horno; con Arroz con maíz;Pescado al Horno  con Arroz con maíz
+838;2025-08-24;Pescado;al Horno; con Arroz con guandú y Ensalada de papa;Pescado al Horno  con Arroz con guandú y Ensalada de papa
+839;2025-08-24;Pescado;al Horno; con Arroz con guandú y Ensalada de repollo con zanahoria;Pescado al Horno  con Arroz con guandú y Ensalada de repollo con zanahoria
+840;2025-08-24;Pescado;al Horno; con Arroz con guandú y Tajadas;Pescado al Horno  con Arroz con guandú y Tajadas
+841;2025-08-24;Pescado;al Horno; con Arroz con guandú;Pescado al Horno  con Arroz con guandú
+842;2025-08-24;Pescado;al Horno; con Arroz con lentejas y Ensalada de papa;Pescado al Horno  con Arroz con lentejas y Ensalada de papa
+843;2025-08-24;Pescado;al Horno; con Arroz con lentejas y Ensalada de repollo con zanahoria;Pescado al Horno  con Arroz con lentejas y Ensalada de repollo con zanahoria
+844;2025-08-24;Pescado;al Horno; con Arroz con lentejas y Tajadas;Pescado al Horno  con Arroz con lentejas y Tajadas
+845;2025-08-24;Pescado;al Horno; con Arroz con lentejas;Pescado al Horno  con Arroz con lentejas
+846;2025-08-24;Pescado;al Horno; con Arroz verde y Ensalada de papa;Pescado al Horno  con Arroz verde y Ensalada de papa
+847;2025-08-24;Pescado;al Horno; con Arroz verde y Ensalada de repollo con zanahoria;Pescado al Horno  con Arroz verde y Ensalada de repollo con zanahoria
+848;2025-08-24;Pescado;al Horno; con Arroz verde y Tajadas;Pescado al Horno  con Arroz verde y Tajadas
+849;2025-08-24;Pescado;al Horno; con Arroz verde;Pescado al Horno  con Arroz verde
+850;2025-08-24;Pescado;al Horno; con Puré de papas y Ensalada de papa;Pescado al Horno  con Puré de papas y Ensalada de papa
+851;2025-08-24;Pescado;al Horno; con Puré de papas y Tajadas;Pescado al Horno  con Puré de papas y Tajadas
+852;2025-08-24;Pescado;al Horno; con Puré de papas;Pescado al Horno  con Puré de papas
+853;2025-08-24;Pescado;al Horno; con Papas fritas y Ensalada de papa;Pescado al Horno  con Papas fritas y Ensalada de papa
+854;2025-08-24;Pescado;al Horno; con Papas fritas y Ensalada de repollo con zanahoria;Pescado al Horno  con Papas fritas y Ensalada de repollo con zanahoria
+855;2025-08-24;Pescado;al Horno; con Papas fritas y Tajadas;Pescado al Horno  con Papas fritas y Tajadas
+856;2025-08-24;Pescado;al Horno; con Papas fritas;Pescado al Horno  con Papas fritas
+857;2025-08-24;Pescado;al Horno; con Papas asadas y Ensalada de papa;Pescado al Horno  con Papas asadas y Ensalada de papa
+858;2025-08-24;Pescado;al Horno; con Papas asadas y Ensalada de repollo con zanahoria;Pescado al Horno  con Papas asadas y Ensalada de repollo con zanahoria
+859;2025-08-24;Pescado;al Horno; con Papas asadas y Tajadas;Pescado al Horno  con Papas asadas y Tajadas
+860;2025-08-24;Pescado;al Horno; con Papas asadas;Pescado al Horno  con Papas asadas
+861;2025-08-24;Pescado;al Horno; con Patacones y Ensalada de papa;Pescado al Horno  con Patacones y Ensalada de papa
+862;2025-08-24;Pescado;al Horno; con Patacones y Ensalada de repollo con zanahoria;Pescado al Horno  con Patacones y Ensalada de repollo con zanahoria
+863;2025-08-24;Pescado;al Horno; con Patacones y Tajadas;Pescado al Horno  con Patacones y Tajadas
+864;2025-08-24;Pescado;al Horno; con Patacones;Pescado al Horno  con Patacones
+865;2025-08-24;Mixto;; con arroz Blanco;Mixto   con arroz Blanco
+866;2025-08-24;Pollo;Sancocho; con Arroz Blanco;Pollo Sancocho  con Arroz Blanco
+867;2025-08-24;Pollo;Lasaña en salsa Blanca;;Pollo Lasaña en salsa Blanca 
+868;2025-08-24;Pollo;Lasaña en salsa Blanca; con Pan de ajo;Pollo Lasaña en salsa Blanca  con Pan de ajo
+869;2025-08-24;Pollo;Lasaña en salsa Blanca; con Brochettas de tomate;Pollo Lasaña en salsa Blanca  con Brochettas de tomate
+870;2025-08-24;Pollo;Lasaña en salsa Roja;;Pollo Lasaña en salsa Roja 
+871;2025-08-24;Pollo;Lasaña en salsa Roja; con Pan de ajo;Pollo Lasaña en salsa Roja  con Pan de ajo
+872;2025-08-24;Pollo;Lasaña en salsa Roja; con Brochettas de tomate;Pollo Lasaña en salsa Roja  con Brochettas de tomate
+873;2025-08-24;Carne de Res;Lasaña en salsa Roja;;Carne de Res Lasaña en salsa Roja 
+874;2025-08-24;Carne de Res;Lasaña en salsa Roja; con Pan de ajo;Carne de Res Lasaña en salsa Roja  con Pan de ajo
+875;2025-08-24;Carne de Res;Lasaña en salsa Roja; con Brochettas de tomate;Carne de Res Lasaña en salsa Roja  con Brochettas de tomate
