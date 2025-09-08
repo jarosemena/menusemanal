@@ -175,3 +175,5 @@ def test_load_data_with_different_structures(tmp_path, monkeypatch):
     result = load_data("multi.json")
     assert len(result) == 2
     assert result[0]["id"] == 1
+
+    

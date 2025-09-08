@@ -1,0 +1,924 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Arroz blanco y Ensalada de papa",
+      "Descripcion": "Pollo a la Reina  con Arroz blanco y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "a la Reina"
+    },
+    {
+      "id": 2,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Arroz blanco y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pollo a la Reina  con Arroz blanco y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "a la Reina"
+    },
+    {
+      "id": 3,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Arroz blanco y Tajadas",
+      "Descripcion": "Pollo a la Reina  con Arroz blanco y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "a la Reina"
+    },
+    {
+      "id": 4,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Arroz blanco",
+      "Descripcion": "Pollo a la Reina  con Arroz blanco",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "a la Reina"
+    },
+    {
+      "id": 5,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Arroz con maíz y Ensalada de papa",
+      "Descripcion": "Pollo a la Reina  con Arroz con maíz y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "a la Reina"
+    },
+    {
+      "id": 6,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Arroz con maíz y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pollo a la Reina  con Arroz con maíz y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "a la Reina"
+    },
+    {
+      "id": 7,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Arroz con maíz y Tajadas",
+      "Descripcion": "Pollo a la Reina  con Arroz con maíz y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "a la Reina"
+    },
+    {
+      "id": 8,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Arroz con maíz",
+      "Descripcion": "Pollo a la Reina  con Arroz con maíz",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "a la Reina"
+    },
+    {
+      "id": 9,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Arroz con guandú y Ensalada de papa",
+      "Descripcion": "Pollo a la Reina  con Arroz con guandú y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "a la Reina"
+    },
+    {
+      "id": 10,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Arroz con guandú y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pollo a la Reina  con Arroz con guandú y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "a la Reina"
+    },
+    {
+      "id": 727,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Arroz con lentejas",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Arroz con lentejas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 728,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Arroz verde y Ensalada de papa",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Arroz verde y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 729,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Arroz verde y Ensalada de repollo con zanahoria",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Arroz verde y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 730,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Arroz verde y Tajadas",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Arroz verde y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 731,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Arroz verde",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Arroz verde",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 732,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Puré de papas y Ensalada de papa",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Puré de papas y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 733,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Puré de papas y Tajadas",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Puré de papas y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 734,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Puré de papas",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Puré de papas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 735,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Papas fritas y Ensalada de papa",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Papas fritas y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 736,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Papas fritas y Ensalada de repollo con zanahoria",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Papas fritas y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 737,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Papas fritas y Tajadas",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Papas fritas y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 738,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Papas fritas",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Papas fritas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 739,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Papas asadas y Ensalada de papa",
+      "Descripcion": "Carne de Res Bolitas al Vino  con Papas asadas y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Bolitas al Vino"
+    },
+    {
+      "id": 807,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con lentejas y Ensalada de papa",
+      "Descripcion": "Pescado Frito  con Arroz con lentejas y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 808,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con lentejas y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado Frito  con Arroz con lentejas y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 809,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con lentejas y Tajadas",
+      "Descripcion": "Pescado Frito  con Arroz con lentejas y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 810,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con lentejas",
+      "Descripcion": "Pescado Frito  con Arroz con lentejas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 811,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz verde y Ensalada de papa",
+      "Descripcion": "Pescado Frito  con Arroz verde y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 812,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz verde y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado Frito  con Arroz verde y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 813,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz verde y Tajadas",
+      "Descripcion": "Pescado Frito  con Arroz verde y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 814,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz verde",
+      "Descripcion": "Pescado Frito  con Arroz verde",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 815,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Puré de papas y Ensalada de papa",
+      "Descripcion": "Pescado Frito  con Puré de papas y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 816,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Puré de papas y Tajadas",
+      "Descripcion": "Pescado Frito  con Puré de papas y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 817,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Puré de papas",
+      "Descripcion": "Pescado Frito  con Puré de papas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 818,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas fritas y Ensalada de papa",
+      "Descripcion": "Pescado Frito  con Papas fritas y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 819,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas fritas y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado Frito  con Papas fritas y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 820,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas fritas y Tajadas",
+      "Descripcion": "Pescado Frito  con Papas fritas y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 821,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas fritas",
+      "Descripcion": "Pescado Frito  con Papas fritas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 822,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas asadas y Ensalada de papa",
+      "Descripcion": "Pescado Frito  con Papas asadas y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 823,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas asadas y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado Frito  con Papas asadas y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 824,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas asadas y Tajadas",
+      "Descripcion": "Pescado Frito  con Papas asadas y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 825,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas asadas",
+      "Descripcion": "Pescado Frito  con Papas asadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 826,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Patacones y Ensalada de papa",
+      "Descripcion": "Pescado Frito  con Patacones y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 827,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Patacones y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado Frito  con Patacones y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 828,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Patacones y Tajadas",
+      "Descripcion": "Pescado Frito  con Patacones y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 829,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Patacones",
+      "Descripcion": "Pescado Frito  con Patacones",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 830,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz blanco y Ensalada de papa",
+      "Descripcion": "Pescado Frito  con Arroz blanco y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Frito"
+    },
+    {
+      "id": 831,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz blanco y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado al Horno  con Arroz blanco y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 832,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz blanco y Tajadas",
+      "Descripcion": "Pescado al Horno  con Arroz blanco y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 833,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz blanco",
+      "Descripcion": "Pescado al Horno  con Arroz blanco",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 834,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con maíz y Ensalada de papa",
+      "Descripcion": "Pescado al Horno  con Arroz con maíz y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 835,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con maíz y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado al Horno  con Arroz con maíz y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 836,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con maíz y Tajadas",
+      "Descripcion": "Pescado al Horno  con Arroz con maíz y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 837,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con maíz",
+      "Descripcion": "Pescado al Horno  con Arroz con maíz",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 838,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con guandú y Ensalada de papa",
+      "Descripcion": "Pescado al Horno  con Arroz con guandú y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 839,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con guandú y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado al Horno  con Arroz con guandú y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 840,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con guandú y Tajadas",
+      "Descripcion": "Pescado al Horno  con Arroz con guandú y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 841,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con guandú",
+      "Descripcion": "Pescado al Horno  con Arroz con guandú",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 842,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con lentejas y Ensalada de papa",
+      "Descripcion": "Pescado al Horno  con Arroz con lentejas y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 843,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con lentejas y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado al Horno  con Arroz con lentejas y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 844,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con lentejas y Tajadas",
+      "Descripcion": "Pescado al Horno  con Arroz con lentejas y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 845,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz con lentejas",
+      "Descripcion": "Pescado al Horno  con Arroz con lentejas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 846,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz verde y Ensalada de papa",
+      "Descripcion": "Pescado al Horno  con Arroz verde y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 847,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz verde y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado al Horno  con Arroz verde y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 848,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz verde y Tajadas",
+      "Descripcion": "Pescado al Horno  con Arroz verde y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 849,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Arroz verde",
+      "Descripcion": "Pescado al Horno  con Arroz verde",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 850,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Puré de papas y Ensalada de papa",
+      "Descripcion": "Pescado al Horno  con Puré de papas y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 851,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Puré de papas y Tajadas",
+      "Descripcion": "Pescado al Horno  con Puré de papas y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 852,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Puré de papas",
+      "Descripcion": "Pescado al Horno  con Puré de papas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 853,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas fritas y Ensalada de papa",
+      "Descripcion": "Pescado al Horno  con Papas fritas y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 854,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas fritas y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado al Horno  con Papas fritas y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 855,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas fritas y Tajadas",
+      "Descripcion": "Pescado al Horno  con Papas fritas y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 856,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas fritas",
+      "Descripcion": "Pescado al Horno  con Papas fritas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 857,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas asadas y Ensalada de papa",
+      "Descripcion": "Pescado al Horno  con Papas asadas y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 858,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas asadas y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado al Horno  con Papas asadas y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 859,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas asadas y Tajadas",
+      "Descripcion": "Pescado al Horno  con Papas asadas y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 860,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Papas asadas",
+      "Descripcion": "Pescado al Horno  con Papas asadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 861,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Patacones y Ensalada de papa",
+      "Descripcion": "Pescado al Horno  con Patacones y Ensalada de papa",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 862,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Patacones y Ensalada de repollo con zanahoria",
+      "Descripcion": "Pescado al Horno  con Patacones y Ensalada de repollo con zanahoria",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 863,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Patacones y Tajadas",
+      "Descripcion": "Pescado al Horno  con Patacones y Tajadas",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 864,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pescado",
+      "Complemento": " con Patacones",
+      "Descripcion": "Pescado al Horno  con Patacones",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "al Horno"
+    },
+    {
+      "id": 865,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Mixto",
+      "Complemento": " con arroz Blanco",
+      "Descripcion": "Mixto   con arroz Blanco",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": null
+    },
+    {
+      "id": 866,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Arroz Blanco",
+      "Descripcion": "Pollo Sancocho  con Arroz Blanco",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Sancocho"
+    },
+    {
+      "id": 867,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": null,
+      "Descripcion": "Pollo Lasaña en salsa Blanca ",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Lasaña en salsa Blanca"
+    },
+    {
+      "id": 868,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Pan de ajo",
+      "Descripcion": "Pollo Lasaña en salsa Blanca  con Pan de ajo",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Lasaña en salsa Blanca"
+    },
+    {
+      "id": 869,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Brochettas de tomate",
+      "Descripcion": "Pollo Lasaña en salsa Blanca  con Brochettas de tomate",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Lasaña en salsa Blanca"
+    },
+    {
+      "id": 870,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": null,
+      "Descripcion": "Pollo Lasaña en salsa Roja ",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Lasaña en salsa Roja"
+    },
+    {
+      "id": 871,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Pan de ajo",
+      "Descripcion": "Pollo Lasaña en salsa Roja  con Pan de ajo",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Lasaña en salsa Roja"
+    },
+    {
+      "id": 872,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Pollo",
+      "Complemento": " con Brochettas de tomate",
+      "Descripcion": "Pollo Lasaña en salsa Roja  con Brochettas de tomate",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Lasaña en salsa Roja"
+    },
+    {
+      "id": 873,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": null,
+      "Descripcion": "Carne de Res Lasaña en salsa Roja ",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Lasaña en salsa Roja"
+    },
+    {
+      "id": 874,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Pan de ajo",
+      "Descripcion": "Carne de Res Lasaña en salsa Roja  con Pan de ajo",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Lasaña en salsa Roja"
+    },
+    {
+      "id": 875,
+      "created_at": "2025-08-24T00:00:00+00:00",
+      "Proteina": "Carne de Res",
+      "Complemento": " con Brochettas de tomate",
+      "Descripcion": "Carne de Res Lasaña en salsa Roja  con Brochettas de tomate",
+      "RecetaCode": null,
+      "SuperListCode": null,
+      "TipoCocionProteina": "Lasaña en salsa Roja"
+    }
+  ]
+}
