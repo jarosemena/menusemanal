@@ -56,7 +56,14 @@ class MenuGenerator:
     def generar_menu_semanal(self) -> List[Dict]:
         menu = []
         dias_semana = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo']
-        almuerzos_base = random.sample(self.almuerzos, 3)
+        
+          # Handle case where there aren't enough almuerzos for sampling
+        if len(self.almuerzos) >= 3:
+            almuerzos_base = random.sample(self.almuerzos, 3)
+        else:
+            # If fewer than 3 almuerzos, use all available and repeat if necessary
+            almuerzos_base = self.almuerzos * 3
+            almuerzos_base = almuerzos_base[:3]  # Take first 3
 
         for i, dia in enumerate(dias_semana):
             if dia in ['Martes', 'Jueves'] and i >= 2:
