@@ -21,8 +21,7 @@ class InformacionFecha:
         self.codigosemanaanterior = codigosemanaanterior
         self.desde_fecha()
 
-    @classmethod
-    def desde_fecha(cls, fecha_referencia=None):
+    def desde_fecha(self, fecha_referencia=None):
         fecha_actual = fecha_referencia or datetime.datetime.now()
         # Obtener el número de la semana y el año (igual que tu función)
         año, numero_semana, numero_dia_semana = fecha_actual.isocalendar()
@@ -42,14 +41,12 @@ class InformacionFecha:
         codigosemana = f"{año}-{numero_semana:02d}"  # Formato: AAAA-SS
         codigosemanaanterior = f"{año_anterior}-{numero_semana_anterior:02d}"
 
-        return cls(
-            fecha_del_dia=fecha_actual.strftime('%Y-%m-%d'),
-            numero_de_la_semana=numero_semana,
-            numero_del_dia_en_la_semana=numero_dia_semana,
-            fecha_del_siguiente_lunes=siguiente_lunes.strftime('%Y-%m-%d'),
-            codigo_de_semana=codigosemana,
-            codigosemanaanterior=codigosemanaanterior
-        )
+        self.fecha_del_dia = fecha_actual.strftime('%Y-%m-%d'),
+        self.numero_de_la_semana = numero_semana,
+        self.numero_del_dia_en_la_semana = numero_dia_semana,
+        self.fecha_del_siguiente_lunes = siguiente_lunes.strftime('%Y-%m-%d'),
+        self.codigo_de_semana = codigosemana,
+        self.codigosemanaanterior = codigosemanaanterior
 
     def to_dict(self):
         """Convierte el objeto a diccionario"""

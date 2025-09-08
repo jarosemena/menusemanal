@@ -114,7 +114,7 @@ class MenuGenerator:
 
             if len(self.proteinas_recientes) > 6:
                 self.proteinas_recientes = self.proteinas_recientes[-6:]
-            
+
             daystosum = self.dia_a_indice_simple(dia, dias_semana)
             print(f" daystosum = {daystosum}")
             if (daystosum > 0):
