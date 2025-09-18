@@ -5,8 +5,8 @@ from app.use_cases.process_data import generate_weekly_menu
 
 def test_menu_generation_structure():
     """Prueba que el menú generado tenga la estructura correcta"""
-    menu_semanal = generate_weekly_menu()
-    
+    menu_semanal = generate_weekly_menu() 
+ 
     # Verificar que se generan 7 días
     assert len(menu_semanal) == 7
     

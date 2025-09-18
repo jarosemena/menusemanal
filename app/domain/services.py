@@ -139,11 +139,11 @@ class MenuGenerator:
                     'Fecha': fecha,
                     'DiaSemana': dia,
                     'CodigoDesayuno': desayuno['id'],
-                    'DescDesayuno': desayuno['Descripcion'],
+                    'DescDesayuno': " ".join(desayuno['Descripcion'].split()),
                     'CodigoAlmuerzo': almuerzo['id'],
-                    'DescAlmuerzo': almuerzo['Descripcion'],
+                    'DescAlmuerzo': " ".join(almuerzo['Descripcion'].split()),
                     'CodigoCena': cena['id'],
-                    'DescCena': cena['Descripcion']
+                    'DescCena': " ".join(cena['Descripcion'].split())
                 })
 
         return menu

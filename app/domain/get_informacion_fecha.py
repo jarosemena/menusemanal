@@ -4,10 +4,10 @@ import datetime
 class InformacionFecha:
 
     def __init__(self,
-                 fecha_del_dia: str = None,
+                 fecha_del_dia: datetime = None,
                  numero_de_la_semana: int = None,
                  numero_del_dia_en_la_semana: int = None,
-                 fecha_del_siguiente_lunes: str = None,
+                 fecha_del_siguiente_lunes: datetime = None,
                  codigo_de_semana: str = None,
                  codigosemanaanterior: str = None):
         """
@@ -41,11 +41,11 @@ class InformacionFecha:
         codigosemana = f"{año}-{numero_semana:02d}"  # Formato: AAAA-SS
         codigosemanaanterior = f"{año_anterior}-{numero_semana_anterior:02d}"
 
-        self.fecha_del_dia = fecha_actual.strftime('%Y-%m-%d'),
-        self.numero_de_la_semana = numero_semana,
-        self.numero_del_dia_en_la_semana = numero_dia_semana,
-        self.fecha_del_siguiente_lunes = siguiente_lunes.strftime('%Y-%m-%d'),
-        self.codigo_de_semana = codigosemana,
+        self.fecha_del_dia = fecha_actual.date()
+        self.numero_de_la_semana = numero_semana
+        self.numero_del_dia_en_la_semana = numero_dia_semana
+        self.fecha_del_siguiente_lunes = siguiente_lunes.date()
+        self.codigo_de_semana = codigosemana
         self.codigosemanaanterior = codigosemanaanterior
 
     def to_dict(self):
