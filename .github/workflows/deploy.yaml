@@ -49,7 +49,7 @@ jobs:
             --allow-unauthenticated \
             --region ${{ secrets.GCP_REGION }} \
             --source=. \
-            --entry-point=your_entry_point_function \
+            --entry-point=get_menu \
             --memory=512Mi \
             --timeout=300s \
             --min-instances=0 \
