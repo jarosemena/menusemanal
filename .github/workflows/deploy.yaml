@@ -40,10 +40,17 @@ jobs:
           service_account_key: ${{ secrets.GCP_CREDENTIALS }}
           export_default_credentials: true
 
-      - name: Deploy to Cloud Functions
+      - name: Deploy to Cloud Functions Gen2
         run: |
           gcloud functions deploy ${{ secrets.GCP_FUNCTION_NAME }} \
+            --gen2 \
             --runtime python311 \
             --trigger-http \
             --allow-unauthenticated \
-            --region ${{ secrets.GCP_REGION }}
+            --region ${{ secrets.GCP_REGION }} \
+            --source=. \
+            --entry-point=get_menu \
+            --memory=512Mi \
+            --timeout=300s \
+            --min-instances=0 \
+            --max-instances=100
