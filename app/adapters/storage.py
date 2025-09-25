@@ -5,7 +5,7 @@ from typing import List, Dict, Any
 
 
 def load_data(file_name: str) -> List[Dict[str, Any]]:
-    path = Path("data\\json\\") / file_name
+    path = Path("data") / "json" / file_name
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
