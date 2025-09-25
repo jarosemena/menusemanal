@@ -27,7 +27,7 @@ jobs:
         run: pytest app/tests
 
   deploy:
-    needs: test   # solo corre si los tests pasan
+    needs: test
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -39,6 +39,14 @@ jobs:
           project_id: ${{ secrets.GCP_PROJECT_ID }}
           service_account_key: ${{ secrets.GCP_CREDENTIALS }}
           export_default_credentials: true
+
+      - name: Debug authentication
+        run: |
+          echo "Checking authentication..."
+          gcloud auth list
+          gcloud config get-value project
+          echo "GOOGLE_APPLICATION_CREDENTIALS: $GOOGLE_APPLICATION_CREDENTIALS"
+          ls -la $GOOGLE_APPLICATION_CREDENTIALS || echo "File not found"
 
       - name: Deploy to Cloud Functions Gen2
         run: |
