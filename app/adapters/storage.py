@@ -1,7 +1,7 @@
 # storage.py
 import json
 from pathlib import Path
-from typing import List, Dict, Any, Union
+from typing import List, Dict, Any
 
 
 def load_data(file_name: str) -> List[Dict[str, Any]]:
