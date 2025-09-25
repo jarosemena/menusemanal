@@ -24,7 +24,7 @@ jobs:
           pip install pytest
 
       - name: Run pytest
-        run: pytest
+        run: pytest app/test
 
   deploy:
     needs: test   # solo corre si los tests pasan
