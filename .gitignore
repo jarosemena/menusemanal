@@ -1,0 +1,49 @@
+# Entorno virtual
+venv/
+.env/
+.venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos de coverage / testing
+.coverage
+htmlcov/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.tox/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.iml
+
+# Datos sensibles o de prueba
+data/*.json
+!data/example_*.json   # puedes dejar ejemplos públicos si lo deseas
+
+# Paquetes de distribución
+dist/
+build/
+*.egg-info/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

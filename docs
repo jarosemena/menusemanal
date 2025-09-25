@@ -1,0 +1,82 @@
+ Fix for services.py (sampling issue)
+Update the generar_menu_semanal method to handle cases where there aren't enough almuerzos:
+
+python
+def generar_menu_semanal(self) -> List[Dict]:
+    menu = []
+    dias_semana = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo']
+    
+    # Handle case where there aren't enough almuerzos for sampling
+    if len(self.almuerzos) >= 3:
+        almuerzos_base = random.sample(self.almuerzos, 3)
+    else:
+        # If fewer than 3 almuerzos, use all available and repeat if necessary
+        almuerzos_base = self.almuerzos * 3
+        almuerzos_base = almuerzos_base[:3]  # Take first 3
+
+    for i, dia in enumerate(dias_semana):
+        # ... rest of the method remains the same
+2. Fix for storage.py tests
+Update the test file paths or modify the load_data function:
+
+Option A: Modify the load_data function to be more flexible:
+
+python
+def load_data(file_name: str) -> List[Dict]:
+    # Try multiple paths
+    possible_paths = [
+        Path("data/json/") / file_name,
+        Path("data\\json\\") / file_name,
+        Path(file_name)  # For tests
+    ]
+    
+    for path in possible_paths:
+        if path.exists():
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            
+            if isinstance(data, list) and "data" in data[0]:
+                return data[0]["data"]
+            return data
+    
+    raise FileNotFoundError(f"Could not find {file_name} in any expected location")
+Option B: Fix the test setup to create the correct directory structure:
+
+In your test files, ensure you're creating the correct directory structure:
+
+python
+def test_load_data_with_plain_list(tmp_path):
+    # Create the data/json directory structure
+    data_dir = tmp_path / "data" / "json"
+    data_dir.mkdir(parents=True, exist_ok=True)
+    
+    file_path = data_dir / "sample.json"
+    data = [{"id": 1, "Proteina": "Test", "Complemento": "Pan", "Descripcion": "Test desc"}]
+    file_path.write_text(json.dumps(data), encoding="utf-8")
+
+    # Temporarily change to the test directory
+    original_cwd = os.getcwd()
+    os.chdir(tmp_path)
+    
+    try:
+        result = load_data("sample.json")
+        # ... assertions
+    finally:
+        os.chdir(original_cwd)
+3. Update your test data
+Make sure your test data has at least 3 items for each meal type to avoid the sampling error:
+
+python
+# In your test setup, ensure you have enough data
+sample_data = (
+    [desayuno1, desayuno2, desayuno3],  # At least 3 breakfasts
+    [almuerzo1, almuerzo2, almuerzo3],   # At least 3 lunches
+    [cena1, cena2, cena3]                # At least 3 dinners
+)
+The key issues are:
+
+random.sample() needs at least as many items as you're trying to sample
+
+File paths need to be handled consistently between development and test environments
+
+Choose the approach that best fits your project structure and testing needs.
