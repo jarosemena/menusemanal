@@ -3,7 +3,7 @@ name: Test & Deploy Python to GCP Functions
 on:
   push:
     branches:
-      - main   # despliega cuando haces push a main
+      - main   
 
 jobs:
   test:
@@ -29,6 +29,12 @@ jobs:
   deploy:
     needs: test
     runs-on: ubuntu-latest
+    
+   
+    permissions:
+      contents: read
+      id-token: write  
+    
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
