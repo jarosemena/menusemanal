@@ -33,29 +33,21 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Debug - Check secret format
-        run: |
-          echo "Secret length: ${#GCP_CREDENTIALS}"
-          echo "First 100 chars: ${GCP_CREDENTIALS:0:100}"
-          # Create the key file manually
-          echo "${{ secrets.GCP_CREDENTIALS }}" > /tmp/key.json
-          echo "Key file created. Size: $(wc -c < /tmp/key.json) bytes"
-          head -5 /tmp/key.json
-
-      - name: Set up gcloud CLI
-        uses: google-github-actions/setup-gcloud@v2
+      - name: 'Authenticate to Google Cloud'
+        uses: 'google-github-actions/auth@v2'
         with:
-          project_id: ${{ secrets.GCP_PROJECT_ID }}
-          service_account_key: ${{ secrets.GCP_CREDENTIALS }}
-          export_default_credentials: true
+          workload_identity_provider: 'projects/123456789/locations/global/workloadIdentityPools/github-pool/providers/github-provider'
+          service_account: 'github-actions-sa@encoded-pointer-451003-p5.iam.gserviceaccount.com'
 
-      - name: Debug authentication
+      - name: 'Set up Cloud SDK'
+        uses: 'google-github-actions/setup-gcloud@v2'
+        with:
+          project_id: 'encoded-pointer-451003-p5'
+
+      - name: 'Verify authentication'
         run: |
-          echo "Checking authentication..."
           gcloud auth list
-          gcloud config get-value project
-          echo "GOOGLE_APPLICATION_CREDENTIALS: $GOOGLE_APPLICATION_CREDENTIALS"
-          ls -la $GOOGLE_APPLICATION_CREDENTIALS || echo "File not found"
+          gcloud config list project
 
       - name: Deploy to Cloud Functions Gen2
         run: |
