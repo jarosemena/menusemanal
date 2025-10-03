@@ -30,7 +30,7 @@ def get_menu(request):
             }
 
             headers['Content-Type'] = 'application/json'
-            json_data = json.dumps(response_data)
+            json_data = json.dumps(response_data, default=str)
 
             return json_data, 200, {'Content-Type': 'application/json'}
         else:
